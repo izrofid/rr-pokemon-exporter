@@ -28,10 +28,6 @@ def to_showdown_format(pokemon_info):
     if pokemon_info.get("ability"):
         lines.append(f"Ability: {pokemon_info['ability']}")
 
-    # Level
-    if pokemon_info.get("level") and pokemon_info["level"] != 100:
-        lines.append(f"Level: {pokemon_info['level']}")
-
     # Shiny, gender, happiness, etc. for later
 
     # EVs
