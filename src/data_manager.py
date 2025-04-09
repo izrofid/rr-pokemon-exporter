@@ -68,7 +68,7 @@ class SpeciesDataProvider(DataProvider):
     """Provider for Pokémon species data"""
 
     def __init__(self) -> None:
-        super().__init__("Species.json")
+        super().__init__("species.json")
 
     def get_name(self, species_id: int) -> str:
         """Get a Pokémon's name by its species ID"""
@@ -81,7 +81,7 @@ class MoveDataProvider(DataProvider):
     """Provider for Pokémon move data"""
 
     def __init__(self) -> None:
-        super().__init__("Moves.json")
+        super().__init__("moves.json")
 
     def get_name(self, move_id: int) -> str | None:
         """Get a move name by its ID"""
