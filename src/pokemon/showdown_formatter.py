@@ -1,9 +1,14 @@
-def to_showdown_format(pokemon_info):
+def to_showdown_format(pokemon_info, export_level=0):
     lines = []
 
     # Species and nickname
     species = pokemon_info["species"]
     nickname = pokemon_info["nickname"]
+
+    if export_level != 0:
+        pokemon_level = export_level
+    else:
+        pokemon_level = pokemon_info.get("level")
 
     held_item = pokemon_info.get("held_item_id", None)
     if held_item != "None":
@@ -17,8 +22,8 @@ def to_showdown_format(pokemon_info):
         lines.append(f"{species}{item_text}")
 
     # Level
-    if pokemon_info.get("level") and pokemon_info["level"] != 100:
-        lines.append(f"Level: {pokemon_info['level']}")
+    if pokemon_level and pokemon_level != 100:
+        lines.append(f"Level: {pokemon_level}")
 
     # Nature
     if pokemon_info.get("nature"):
