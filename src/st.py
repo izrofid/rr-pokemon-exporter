@@ -3,7 +3,7 @@ import tempfile
 import os
 from pokemon import read_pokemon_party, to_showdown_format, read_pokemon_boxes
 from read_sav import read_sav_file
-from markdowns import SIDEBAR, LINKS
+from markdowns import SIDEBAR, LINKS, WHERE_SAVE
 from io import BytesIO
 
 
@@ -24,9 +24,12 @@ def main():
         """
         Upload your Radical Red save file to export your Pokémon in Showdown format.
 
-        This tool extracts all Pokémon from your PC boxes and converts them to the Showdown Teambuilder format.
+        This tool extracts all Pokémon from your Party and PC boxes and converts them to the Showdown format.
         """
     )
+
+    with st.expander("Where is my save file?", expanded=False):
+        st.markdown(WHERE_SAVE)
 
     uploaded_file = st.file_uploader(
         "Upload your save file", SAVE_TYPES, help="Select your Radical Red save file"
