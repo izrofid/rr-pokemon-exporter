@@ -109,14 +109,16 @@ class AbilityDataProvider(DataProvider):
         if pokemon_name not in self._data:
             return f"Unknown Ability (for {pokemon_name})"
 
-        if has_hidden_ability:
+        ha = self._data[pokemon_name].get("hidden_ability")
+
+        if has_hidden_ability and ha is not None:
             return self._data[pokemon_name].get("hidden_ability")
 
         elif ability_id == 1:
-            return self._data[pokemon_name].get("secondary_ability")
+            return self._data[pokemon_name].get("primary_ability")
 
         elif ability_id == 2:
-            return self._data[pokemon_name].get("primary_ability")
+            return self._data[pokemon_name].get("secondary_ability")
         else:
             return f"Found Nothing (for {pokemon_name} ability_id: {ability_id} ha: {has_hidden_ability})"
 
