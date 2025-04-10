@@ -132,7 +132,7 @@ def get_frlg_sections(block):
     for i in range(NUM_SECTIONS):
         section = get_section(block, i)
         section_id = extract_section_field(section, "section_id")
-        frlg_sections[section_id] = section
+        frlg_sections[section_id] = section[:-16]
 
     if not frlg_sections:
         raise ValueError("No valid sections found")
