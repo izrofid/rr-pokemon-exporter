@@ -1,0 +1,6437 @@
+{
+  "Bulbasaur": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Chlorophyll"
+  },
+  "Ivysaur": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Chlorophyll"
+  },
+  "Venusaur": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Chlorophyll"
+  },
+  "Venusaur-Mega": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Thick Fat",
+    "hidden_ability": null
+  },
+  "Charmander": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Solar Power"
+  },
+  "Charmeleon": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Solar Power"
+  },
+  "Charizard": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Solar Power"
+  },
+  "Charizard-Mega-X": {
+    "primary_ability": "Tough Claws",
+    "secondary_ability": "Tough Claws",
+    "hidden_ability": null
+  },
+  "Charizard-Mega-Y": {
+    "primary_ability": "Drought",
+    "secondary_ability": "Drought",
+    "hidden_ability": null
+  },
+  "Squirtle": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Rain Dish"
+  },
+  "Wartortle": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Rain Dish"
+  },
+  "Blastoise": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Rain Dish"
+  },
+  "Blastoise-Mega": {
+    "primary_ability": "Mega Launcher",
+    "secondary_ability": "Mega Launcher",
+    "hidden_ability": null
+  },
+  "Caterpie": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Shield Dust",
+    "hidden_ability": "Run Away"
+  },
+  "Metapod": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": null
+  },
+  "Butterfree": {
+    "primary_ability": "Compound Eyes",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Butterfree-Mega": {
+    "primary_ability": "Compound Eyes",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": null
+  },
+  "Weedle": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Shield Dust",
+    "hidden_ability": "Run Away"
+  },
+  "Kakuna": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": null
+  },
+  "Beedrill": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Swarm",
+    "hidden_ability": "Sniper"
+  },
+  "Beedrill-Mega": {
+    "primary_ability": "Adaptability",
+    "secondary_ability": "Adaptability",
+    "hidden_ability": null
+  },
+  "Pidgey": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "No Guard"
+  },
+  "Pidgeotto": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "No Guard"
+  },
+  "Pidgeot": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "No Guard"
+  },
+  "Pidgeot-Mega": {
+    "primary_ability": "No Guard",
+    "secondary_ability": "No Guard",
+    "hidden_ability": null
+  },
+  "Rattata": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Hustle"
+  },
+  "Rattata-Alola": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Thick Fat"
+  },
+  "Raticate": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Hustle"
+  },
+  "Raticate-Alola": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Thick Fat"
+  },
+  "Spearow": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Sniper"
+  },
+  "Fearow": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Sniper"
+  },
+  "Ekans": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Corrosion"
+  },
+  "Arbok": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Strong Jaw"
+  },
+  "Pikachu": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Surfing": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Flying": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Cosplay": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": null
+  },
+  "Pikachu-Libre": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": null
+  },
+  "Pikachu-Pop-Star": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": null
+  },
+  "Pikachu-Rock-Star": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": null
+  },
+  "Pikachu-Belle": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": null
+  },
+  "Pikachu-PhD": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": null
+  },
+  "Pikachu-Original": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Hoenn": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Sinnoh": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Unova": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Kalos": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Alola": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Pikachu-Partner": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Raichu": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Raichu-Alola": {
+    "primary_ability": "Surge Surfer",
+    "secondary_ability": "Surge Surfer",
+    "hidden_ability": null
+  },
+  "Sandshrew": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Sand Rush"
+  },
+  "Sandshrew-Alola": {
+    "primary_ability": "Slush Rush",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Ice Body"
+  },
+  "Sandslash": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Sand Rush"
+  },
+  "Sandslash-Alola": {
+    "primary_ability": "Slush Rush",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Ice Scales"
+  },
+  "Nidoran-F": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Rivalry",
+    "hidden_ability": "Hustle"
+  },
+  "Nidorina": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Rivalry",
+    "hidden_ability": "Hustle"
+  },
+  "Nidoqueen": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Rivalry",
+    "hidden_ability": "Sheer Force"
+  },
+  "Nidoran-M": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Rivalry",
+    "hidden_ability": "Hustle"
+  },
+  "Nidorino": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Rivalry",
+    "hidden_ability": "Hustle"
+  },
+  "Nidoking": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Rivalry",
+    "hidden_ability": "Sheer Force"
+  },
+  "Clefairy": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Magic Guard",
+    "hidden_ability": "Friend Guard"
+  },
+  "Clefable": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Magic Guard",
+    "hidden_ability": "Unaware"
+  },
+  "Vulpix": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Drought"
+  },
+  "Vulpix-Alola": {
+    "primary_ability": "Serene Grace",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": "Snow Warning"
+  },
+  "Ninetales": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Drought"
+  },
+  "Ninetales-Alola": {
+    "primary_ability": "Serene Grace",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": "Snow Warning"
+  },
+  "Jigglypuff": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Competitive",
+    "hidden_ability": "Friend Guard"
+  },
+  "Wigglytuff": {
+    "primary_ability": "Sheer Force",
+    "secondary_ability": "Competitive",
+    "hidden_ability": "Frisk"
+  },
+  "Zubat": {
+    "primary_ability": "Infiltrator",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Corrosion"
+  },
+  "Golbat": {
+    "primary_ability": "Infiltrator",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Corrosion"
+  },
+  "Oddish": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Run Away"
+  },
+  "Gloom": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Stench"
+  },
+  "Vileplume": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Effect Spore"
+  },
+  "Paras": {
+    "primary_ability": "Effect Spore",
+    "secondary_ability": "Dry Skin",
+    "hidden_ability": "Damp"
+  },
+  "Parasect": {
+    "primary_ability": "Effect Spore",
+    "secondary_ability": "Dry Skin",
+    "hidden_ability": "Damp"
+  },
+  "Venonat": {
+    "primary_ability": "Compound Eyes",
+    "secondary_ability": "Tinted Lens",
+    "hidden_ability": "Run Away"
+  },
+  "Venomoth": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Tinted Lens",
+    "hidden_ability": "Wonder Skin"
+  },
+  "Diglett": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Arena Trap",
+    "hidden_ability": "Sand Force"
+  },
+  "Diglett-Alola": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Tangling Hair",
+    "hidden_ability": "Sand Force"
+  },
+  "Dugtrio": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Arena Trap",
+    "hidden_ability": "Sand Force"
+  },
+  "Dugtrio-Alola": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Tangling Hair",
+    "hidden_ability": "Sand Force"
+  },
+  "Meowth": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Feline Prowess"
+  },
+  "Meowth-Alola": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Feline Prowess"
+  },
+  "Meowth-Galar": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Tough Claws",
+    "hidden_ability": "Unnerve"
+  },
+  "Persian": {
+    "primary_ability": "Limber",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Feline Prowess"
+  },
+  "Persian-Alola": {
+    "primary_ability": "Fur Coat",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Feline Prowess"
+  },
+  "Psyduck": {
+    "primary_ability": "Damp",
+    "secondary_ability": "Cloud Nine",
+    "hidden_ability": "Swift Swim"
+  },
+  "Golduck": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Cloud Nine",
+    "hidden_ability": "Neuroforce"
+  },
+  "Mankey": {
+    "primary_ability": "Vital Spirit",
+    "secondary_ability": "Anger Point",
+    "hidden_ability": "Defiant"
+  },
+  "Primeape": {
+    "primary_ability": "Vital Spirit",
+    "secondary_ability": "Anger Point",
+    "hidden_ability": "Defiant"
+  },
+  "Growlithe": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Justified"
+  },
+  "Growlithe-Hisui": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Rock Head"
+  },
+  "Arcanine": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Justified"
+  },
+  "Arcanine-Hisui": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Rock Head"
+  },
+  "Poliwag": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Damp",
+    "hidden_ability": "Swift Swim"
+  },
+  "Poliwhirl": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Damp",
+    "hidden_ability": "Swift Swim"
+  },
+  "Poliwrath": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Damp",
+    "hidden_ability": "Swift Swim"
+  },
+  "Abra": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Magic Guard"
+  },
+  "Kadabra": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Magic Guard"
+  },
+  "Alakazam": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Magic Guard"
+  },
+  "Alakazam-Mega": {
+    "primary_ability": "Trace",
+    "secondary_ability": "Trace",
+    "hidden_ability": null
+  },
+  "Machop": {
+    "primary_ability": "Guts",
+    "secondary_ability": "No Guard",
+    "hidden_ability": "Steadfast"
+  },
+  "Machoke": {
+    "primary_ability": "Guts",
+    "secondary_ability": "No Guard",
+    "hidden_ability": "Steadfast"
+  },
+  "Machamp": {
+    "primary_ability": "Guts",
+    "secondary_ability": "No Guard",
+    "hidden_ability": "Steadfast"
+  },
+  "Machamp-Mega": {
+    "primary_ability": "ORAORAORAORA!",
+    "secondary_ability": "ORAORAORAORA!",
+    "hidden_ability": null
+  },
+  "Bellsprout": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Gluttony"
+  },
+  "Weepinbell": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Gluttony"
+  },
+  "Victreebel": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Gluttony"
+  },
+  "Tentacool": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Liquid Ooze",
+    "hidden_ability": "Rain Dish"
+  },
+  "Tentacruel": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Liquid Ooze",
+    "hidden_ability": "Rain Dish"
+  },
+  "Geodude": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Sand Veil"
+  },
+  "Geodude-Alola": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Galvanize"
+  },
+  "Graveler": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Sand Veil"
+  },
+  "Graveler-Alola": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Galvanize"
+  },
+  "Golem": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Sand Veil"
+  },
+  "Golem-Alola": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Magnet Pull",
+    "hidden_ability": "Galvanize"
+  },
+  "Ponyta": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Flame Body"
+  },
+  "Ponyta-Galar": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Immunity",
+    "hidden_ability": "Flash Fire"
+  },
+  "Rapidash": {
+    "primary_ability": "Reckless",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Blazing Soul"
+  },
+  "Rapidash-Galar": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Immunity",
+    "hidden_ability": "Flash Fire"
+  },
+  "Slowpoke": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Regenerator"
+  },
+  "Slowpoke-Galar": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Regenerator"
+  },
+  "Slowbro": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Regenerator"
+  },
+  "Slowbro-Mega": {
+    "primary_ability": "Regenerator",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": "Shell Armor"
+  },
+  "Slowbro-Galar": {
+    "primary_ability": "Quick Draw",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Regenerator"
+  },
+  "Magnemite": {
+    "primary_ability": "Magnet Pull",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Analytic"
+  },
+  "Magneton": {
+    "primary_ability": "Magnet Pull",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Analytic"
+  },
+  "Farfetch\u2019d": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Sharpness"
+  },
+  "Farfetch\u2019d-Galar": {
+    "primary_ability": "Steadfast",
+    "secondary_ability": "Steadfast",
+    "hidden_ability": "Scrappy"
+  },
+  "Doduo": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": null
+  },
+  "Doduo-Sevii": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Anger Point"
+  },
+  "Dodrio": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": null
+  },
+  "Dodrio-Sevii": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Anger Point"
+  },
+  "Seel": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Ice Body"
+  },
+  "Dewgong": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Ice Scales",
+    "hidden_ability": "Ice Body"
+  },
+  "Grimer": {
+    "primary_ability": "Stench",
+    "secondary_ability": "Sticky Hold",
+    "hidden_ability": "Poison Touch"
+  },
+  "Grimer-Alola": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Alchemic Power"
+  },
+  "Muk": {
+    "primary_ability": "Regenerator",
+    "secondary_ability": "Sticky Hold",
+    "hidden_ability": "Poison Touch"
+  },
+  "Muk-Alola": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Alchemic Power"
+  },
+  "Shellder": {
+    "primary_ability": "Shell Armor",
+    "secondary_ability": "Skill Link",
+    "hidden_ability": "Overcoat"
+  },
+  "Cloyster": {
+    "primary_ability": "Shell Armor",
+    "secondary_ability": "Skill Link",
+    "hidden_ability": "Overcoat"
+  },
+  "Gastly": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Haunter": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Gengar": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Gengar-Mega": {
+    "primary_ability": "Shadow Tag",
+    "secondary_ability": "Shadow Tag",
+    "hidden_ability": null
+  },
+  "Onix": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Weak Armor"
+  },
+  "Drowzee": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Bad Dreams",
+    "hidden_ability": "Psychic Surge"
+  },
+  "Hypno": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Bad Dreams",
+    "hidden_ability": "Psychic Surge"
+  },
+  "Krabby": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Sheer Force"
+  },
+  "Kingler": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Sheer Force"
+  },
+  "Kingler-Mega": {
+    "primary_ability": "Tough Claws",
+    "secondary_ability": "Tough Claws",
+    "hidden_ability": null
+  },
+  "Voltorb": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Static",
+    "hidden_ability": "Galvanize"
+  },
+  "Voltorb-Hisui": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Static",
+    "hidden_ability": "Reckless"
+  },
+  "Electrode": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Static",
+    "hidden_ability": "Galvanize"
+  },
+  "Electrode-Hisui": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Static",
+    "hidden_ability": "Reckless"
+  },
+  "Exeggcute": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Harvest"
+  },
+  "Exeggutor": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Harvest"
+  },
+  "Exeggutor-Alola": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Harvest"
+  },
+  "Cubone": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": "Bone Zone"
+  },
+  "Marowak": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": "Bone Zone"
+  },
+  "Marowak-Alola": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": "Bone Zone"
+  },
+  "Hitmonlee": {
+    "primary_ability": "Unburden",
+    "secondary_ability": "Reckless",
+    "hidden_ability": "Striker"
+  },
+  "Hitmonchan": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Iron Fist",
+    "hidden_ability": "Inner Focus"
+  },
+  "Lickitung": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Cloud Nine"
+  },
+  "Koffing": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Neutralize Gas",
+    "hidden_ability": "Toxic Debris"
+  },
+  "Weezing": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Neutralize Gas",
+    "hidden_ability": "Toxic Debris"
+  },
+  "Weezing-Galar": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Neutralize Gas",
+    "hidden_ability": "Misty Surge"
+  },
+  "Rhyhorn": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": "Reckless"
+  },
+  "Rhydon": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": "Reckless"
+  },
+  "Chansey": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": null
+  },
+  "Tangela": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Leaf Guard",
+    "hidden_ability": "Regenerator"
+  },
+  "Kangaskhan": {
+    "primary_ability": "Early Bird",
+    "secondary_ability": "Scrappy",
+    "hidden_ability": "Inner Focus"
+  },
+  "Kangaskhan-Mega": {
+    "primary_ability": "Parental Bond",
+    "secondary_ability": "Parental Bond",
+    "hidden_ability": null
+  },
+  "Horsea": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Damp"
+  },
+  "Seadra": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Damp"
+  },
+  "Goldeen": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Water Veil",
+    "hidden_ability": "Rain Dish"
+  },
+  "Seaking": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Water Veil",
+    "hidden_ability": "Rain Dish"
+  },
+  "Staryu": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Analytic"
+  },
+  "Starmie": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Analytic"
+  },
+  "Mr. Mime": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Filter",
+    "hidden_ability": "Misty Surge"
+  },
+  "Mr. Mime-Galar": {
+    "primary_ability": "Screen Cleaner",
+    "secondary_ability": "Vital Spirit",
+    "hidden_ability": "Ice Body"
+  },
+  "Scyther": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Steadfast"
+  },
+  "Jynx": {
+    "primary_ability": "Dry Skin",
+    "secondary_ability": "Dry Skin",
+    "hidden_ability": null
+  },
+  "Electabuzz": {
+    "primary_ability": "Static",
+    "secondary_ability": "Vital Spirit",
+    "hidden_ability": "Iron Fist"
+  },
+  "Magmar": {
+    "primary_ability": "Flame Body",
+    "secondary_ability": "Magma Armor",
+    "hidden_ability": "Vital Spirit"
+  },
+  "Pinsir": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Moxie"
+  },
+  "Pinsir-Mega": {
+    "primary_ability": "Aerilate",
+    "secondary_ability": "Aerilate",
+    "hidden_ability": null
+  },
+  "Tauros": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Anger Point",
+    "hidden_ability": "Sheer Force"
+  },
+  "Tauros-Paldea-Combat": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Anger Point",
+    "hidden_ability": "Sheer Force"
+  },
+  "Tauros-Paldea-Aqua": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Anger Point",
+    "hidden_ability": "Gluttony"
+  },
+  "Tauros-Paldea-Blaze": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Anger Point",
+    "hidden_ability": "Gluttony"
+  },
+  "Magikarp": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": "Hydration"
+  },
+  "Gyarados": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Moxie"
+  },
+  "Gyarados-Mega": {
+    "primary_ability": "Mold Breaker",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": null
+  },
+  "Lapras": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Hydration",
+    "hidden_ability": null
+  },
+  "Lapras-Mega": {
+    "primary_ability": "Liquid Voice",
+    "secondary_ability": "Liquid Voice",
+    "hidden_ability": null
+  },
+  "Ditto": {
+    "primary_ability": "Limber",
+    "secondary_ability": "Limber",
+    "hidden_ability": "Imposter"
+  },
+  "Eevee": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Adaptability",
+    "hidden_ability": null
+  },
+  "Vaporeon": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Hydration"
+  },
+  "Jolteon": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Volt Absorb",
+    "hidden_ability": "Quick Feet"
+  },
+  "Flareon": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Toxic Boost"
+  },
+  "Porygon": {
+    "primary_ability": "Trace",
+    "secondary_ability": "Download",
+    "hidden_ability": "Analytic"
+  },
+  "Omanyte": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Weak Armor"
+  },
+  "Omastar": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Weak Armor"
+  },
+  "Kabuto": {
+    "primary_ability": "Weak Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": "Swift Swim"
+  },
+  "Kabutops": {
+    "primary_ability": "Sharpness",
+    "secondary_ability": "Sharpness",
+    "hidden_ability": "Swift Swim"
+  },
+  "Aerodactyl": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Unnerve"
+  },
+  "Aerodactyl-Mega": {
+    "primary_ability": "Tough Claws",
+    "secondary_ability": "Tough Claws",
+    "hidden_ability": null
+  },
+  "Snorlax": {
+    "primary_ability": "Immunity",
+    "secondary_ability": "Thick Fat",
+    "hidden_ability": "Gluttony"
+  },
+  "Snorlax-Mega": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Thick Fat",
+    "hidden_ability": null
+  },
+  "Articuno": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Frozen Mist"
+  },
+  "Articuno-Galar": {
+    "primary_ability": "Competitive",
+    "secondary_ability": "Competitive",
+    "hidden_ability": null
+  },
+  "Zapdos": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Static"
+  },
+  "Zapdos-Galar": {
+    "primary_ability": "Defiant",
+    "secondary_ability": "Defiant",
+    "hidden_ability": null
+  },
+  "Moltres": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Flame Body"
+  },
+  "Moltres-Galar": {
+    "primary_ability": "Berserk",
+    "secondary_ability": "Berserk",
+    "hidden_ability": null
+  },
+  "Dratini": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Marvel Scale"
+  },
+  "Dragonair": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Marvel Scale"
+  },
+  "Dragonite": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Multiscale"
+  },
+  "Mewtwo": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Unnerve"
+  },
+  "Mewtwo-Mega-X": {
+    "primary_ability": "Steadfast",
+    "secondary_ability": "Steadfast",
+    "hidden_ability": null
+  },
+  "Mewtwo-Mega-Y": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Insomnia",
+    "hidden_ability": null
+  },
+  "Mew": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": null
+  },
+  "Chikorita": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Leaf Guard"
+  },
+  "Bayleef": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Leaf Guard"
+  },
+  "Meganium": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Triage"
+  },
+  "Cyndaquil": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Flash Fire"
+  },
+  "Quilava": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Flash Fire"
+  },
+  "Typhlosion": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Blazing Soul"
+  },
+  "Typhlosion-Hisui": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Flash Fire"
+  },
+  "Totodile": {
+    "primary_ability": "Sheer Force",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Strong Jaw"
+  },
+  "Croconaw": {
+    "primary_ability": "Sheer Force",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Strong Jaw"
+  },
+  "Feraligatr": {
+    "primary_ability": "Sheer Force",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Strong Jaw"
+  },
+  "Sentret": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Frisk",
+    "hidden_ability": null
+  },
+  "Furret": {
+    "primary_ability": "Adaptability",
+    "secondary_ability": "Frisk",
+    "hidden_ability": null
+  },
+  "Hoothoot": {
+    "primary_ability": "Tinted Lens",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Insomnia"
+  },
+  "Noctowl": {
+    "primary_ability": "Tinted Lens",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Insomnia"
+  },
+  "Ledyba": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": null
+  },
+  "Ledian": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Iron Fist",
+    "hidden_ability": null
+  },
+  "Spinarak": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Insomnia",
+    "hidden_ability": "Sniper"
+  },
+  "Ariados": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "No Guard",
+    "hidden_ability": "Sniper"
+  },
+  "Crobat": {
+    "primary_ability": "Infiltrator",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Corrosion"
+  },
+  "Chinchou": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Water Absorb"
+  },
+  "Lanturn": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Water Absorb"
+  },
+  "Pichu": {
+    "primary_ability": "Static",
+    "secondary_ability": "Static",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Cleffa": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Magic Guard",
+    "hidden_ability": "Friend Guard"
+  },
+  "Igglybuff": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Competitive",
+    "hidden_ability": "Friend Guard"
+  },
+  "Togepi": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": "Super Luck"
+  },
+  "Togetic": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": "Super Luck"
+  },
+  "Natu": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Magic Bounce"
+  },
+  "Xatu": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Magic Bounce"
+  },
+  "Mareep": {
+    "primary_ability": "Static",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Plus"
+  },
+  "Flaaffy": {
+    "primary_ability": "Static",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Plus"
+  },
+  "Ampharos": {
+    "primary_ability": "Static",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Plus"
+  },
+  "Ampharos-Mega": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Thick Fat",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Bellossom": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": null
+  },
+  "Marill": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Huge Power",
+    "hidden_ability": "Sap Sipper"
+  },
+  "Azumarill": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Huge Power",
+    "hidden_ability": "Sap Sipper"
+  },
+  "Sudowoodo": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": null
+  },
+  "Politoed": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Damp",
+    "hidden_ability": "Drizzle"
+  },
+  "Hoppip": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Leaf Guard",
+    "hidden_ability": "Infiltrator"
+  },
+  "Skiploom": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Leaf Guard",
+    "hidden_ability": "Infiltrator"
+  },
+  "Jumpluff": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Leaf Guard",
+    "hidden_ability": "Aerilate"
+  },
+  "Aipom": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Skill Link"
+  },
+  "Sunkern": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Solar Power",
+    "hidden_ability": "Early Bird"
+  },
+  "Sunflora": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Solar Power",
+    "hidden_ability": "Early Bird"
+  },
+  "Yanma": {
+    "primary_ability": "Speed Boost",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Frisk"
+  },
+  "Wooper": {
+    "primary_ability": "Damp",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Unaware"
+  },
+  "Wooper-Paldea": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Unaware"
+  },
+  "Quagsire": {
+    "primary_ability": "Damp",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Unaware"
+  },
+  "Espeon": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": "Magic Bounce"
+  },
+  "Umbreon": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": "Inner Focus"
+  },
+  "Murkrow": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Super Luck",
+    "hidden_ability": "Prankster"
+  },
+  "Slowking": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Regenerator"
+  },
+  "Slowking-Galar": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Regenerator"
+  },
+  "Misdreavus": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Unown": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": "Simple"
+  },
+  "Wobbuffet": {
+    "primary_ability": "Shadow Tag",
+    "secondary_ability": "Shadow Tag",
+    "hidden_ability": "Telepathy"
+  },
+  "Girafarig": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Inner Focus"
+  },
+  "Pineco": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Overcoat"
+  },
+  "Forretress": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Overcoat"
+  },
+  "Dunsparce": {
+    "primary_ability": "Serene Grace",
+    "secondary_ability": "Run Away",
+    "hidden_ability": null
+  },
+  "Gligar": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Immunity"
+  },
+  "Steelix": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Sheer Force"
+  },
+  "Steelix-Mega": {
+    "primary_ability": "Heatproof",
+    "secondary_ability": "Heatproof",
+    "hidden_ability": null
+  },
+  "Snubbull": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Defiant"
+  },
+  "Granbull": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Bull Rush"
+  },
+  "Qwilfish": {
+    "primary_ability": "Toxic Debris",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": "Intimidate"
+  },
+  "Qwilfish-Hisui": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": "Intimidate"
+  },
+  "Scizor": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Technician",
+    "hidden_ability": null
+  },
+  "Scizor-Mega": {
+    "primary_ability": "Technician",
+    "secondary_ability": "Technician",
+    "hidden_ability": null
+  },
+  "Shuckle": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Solid Rock",
+    "hidden_ability": "Contrary"
+  },
+  "Heracross": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Moxie"
+  },
+  "Heracross-Mega": {
+    "primary_ability": "Skill Link",
+    "secondary_ability": "Skill Link",
+    "hidden_ability": null
+  },
+  "Sneasel": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Infiltrator"
+  },
+  "Sneasel-Hisui": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Poison Touch"
+  },
+  "Teddiursa": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Quick Feet",
+    "hidden_ability": "Unnerve"
+  },
+  "Teddiursa-Sevii": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Quick Feet",
+    "hidden_ability": "Iron Fist"
+  },
+  "Ursaring": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Quick Feet",
+    "hidden_ability": "Unnerve"
+  },
+  "Ursaring-Sevii": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Quick Feet",
+    "hidden_ability": "Iron Fist"
+  },
+  "Slugma": {
+    "primary_ability": "Magma Armor",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Weak Armor"
+  },
+  "Magcargo": {
+    "primary_ability": "Simple",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Weak Armor"
+  },
+  "Swinub": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Thick Fat"
+  },
+  "Piloswine": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Thick Fat"
+  },
+  "Corsola": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": null
+  },
+  "Corsola-Galar": {
+    "primary_ability": "Weak Armor",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Perish Body"
+  },
+  "Remoraid": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Skill Link"
+  },
+  "Octillery": {
+    "primary_ability": "Mega Launcher",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Skill Link"
+  },
+  "Delibird": {
+    "primary_ability": "Vital Spirit",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Refrigerate"
+  },
+  "Mantine": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Water Veil"
+  },
+  "Mantine-Sevii": {
+    "primary_ability": "Static",
+    "secondary_ability": "Storm Drain",
+    "hidden_ability": "Hydration"
+  },
+  "Skarmory": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Weak Armor"
+  },
+  "Houndour": {
+    "primary_ability": "Early Bird",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Unnerve"
+  },
+  "Houndoom": {
+    "primary_ability": "Early Bird",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Unnerve"
+  },
+  "Houndoom-Mega": {
+    "primary_ability": "Dark Aura",
+    "secondary_ability": "Solar Power",
+    "hidden_ability": null
+  },
+  "Kingdra": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Damp"
+  },
+  "Phanpy": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Sand Veil"
+  },
+  "Donphan": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Technician"
+  },
+  "Porygon2": {
+    "primary_ability": "Trace",
+    "secondary_ability": "Download",
+    "hidden_ability": "Analytic"
+  },
+  "Stantler": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Reckless",
+    "hidden_ability": "Sap Sipper"
+  },
+  "Smeargle": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Technician",
+    "hidden_ability": null
+  },
+  "Tyrogue": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Steadfast",
+    "hidden_ability": "Vital Spirit"
+  },
+  "Hitmontop": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Steadfast"
+  },
+  "Smoochum": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Hydration"
+  },
+  "Elekid": {
+    "primary_ability": "Static",
+    "secondary_ability": "Vital Spirit",
+    "hidden_ability": "Iron Fist"
+  },
+  "Magby": {
+    "primary_ability": "Flame Body",
+    "secondary_ability": "Magma Armor",
+    "hidden_ability": "Vital Spirit"
+  },
+  "Miltank": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Scrappy",
+    "hidden_ability": "Sap Sipper"
+  },
+  "Blissey": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": null
+  },
+  "Raikou": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Inner Focus"
+  },
+  "Entei": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Inner Focus"
+  },
+  "Suicune": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Inner Focus"
+  },
+  "Larvitar": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Sand Veil"
+  },
+  "Pupitar": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": null
+  },
+  "Tyranitar": {
+    "primary_ability": "Sand Stream",
+    "secondary_ability": "Sand Stream",
+    "hidden_ability": "Unnerve"
+  },
+  "Tyranitar-Mega": {
+    "primary_ability": "Sand Stream",
+    "secondary_ability": "Sand Stream",
+    "hidden_ability": null
+  },
+  "Lugia": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Multiscale"
+  },
+  "Ho-Oh": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": "Phoenix Down"
+  },
+  "Celebi": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": null
+  },
+  "Treecko": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Unburden"
+  },
+  "Grovyle": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Unburden"
+  },
+  "Sceptile": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Unburden"
+  },
+  "Sceptile-Mega": {
+    "primary_ability": "Technician",
+    "secondary_ability": "Technician",
+    "hidden_ability": null
+  },
+  "Torchic": {
+    "primary_ability": "Early Bird",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Speed Boost"
+  },
+  "Combusken": {
+    "primary_ability": "Striker",
+    "secondary_ability": "Striker",
+    "hidden_ability": "Speed Boost"
+  },
+  "Blaziken": {
+    "primary_ability": "Striker",
+    "secondary_ability": "Striker",
+    "hidden_ability": "Speed Boost"
+  },
+  "Blaziken-Mega": {
+    "primary_ability": "Speed Boost",
+    "secondary_ability": "Speed Boost",
+    "hidden_ability": null
+  },
+  "Mudkip": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Damp"
+  },
+  "Marshtomp": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Damp"
+  },
+  "Swampert": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Damp"
+  },
+  "Swampert-Mega": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": null
+  },
+  "Poochyena": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Quick Feet",
+    "hidden_ability": "Moxie"
+  },
+  "Mightyena": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Moxie"
+  },
+  "Zigzagoon": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Quick Feet"
+  },
+  "Zigzagoon-Galar": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Quick Feet"
+  },
+  "Linoone": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Quick Feet"
+  },
+  "Linoone-Galar": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Quick Feet"
+  },
+  "Wurmple": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Shield Dust",
+    "hidden_ability": "Run Away"
+  },
+  "Silcoon": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": null
+  },
+  "Beautifly": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Swarm",
+    "hidden_ability": "Rivalry"
+  },
+  "Cascoon": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Run Away"
+  },
+  "Dustox": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Shield Dust",
+    "hidden_ability": "Compound Eyes"
+  },
+  "Lotad": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Rain Dish",
+    "hidden_ability": "Own Tempo"
+  },
+  "Lombre": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Rain Dish",
+    "hidden_ability": "Own Tempo"
+  },
+  "Ludicolo": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Rain Dish",
+    "hidden_ability": "Own Tempo"
+  },
+  "Seedot": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Infiltrator"
+  },
+  "Nuzleaf": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Infiltrator"
+  },
+  "Shiftry": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Wind Rider",
+    "hidden_ability": "Infiltrator"
+  },
+  "Taillow": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Scrappy"
+  },
+  "Swellow": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Aerilate"
+  },
+  "Wingull": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Rain Dish",
+    "hidden_ability": "Hydration"
+  },
+  "Pelipper": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Rain Dish",
+    "hidden_ability": "Drizzle"
+  },
+  "Ralts": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Trace",
+    "hidden_ability": "Telepathy"
+  },
+  "Kirlia": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Trace",
+    "hidden_ability": "Telepathy"
+  },
+  "Gardevoir": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Trace",
+    "hidden_ability": "Telepathy"
+  },
+  "Gardevoir-Mega": {
+    "primary_ability": "Pixilate",
+    "secondary_ability": "Pixilate",
+    "hidden_ability": null
+  },
+  "Surskit": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": "Rain Dish"
+  },
+  "Masquerain": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Unnerve"
+  },
+  "Shroomish": {
+    "primary_ability": "Effect Spore",
+    "secondary_ability": "Poison Heal",
+    "hidden_ability": "Quick Feet"
+  },
+  "Breloom": {
+    "primary_ability": "Effect Spore",
+    "secondary_ability": "Poison Heal",
+    "hidden_ability": "Technician"
+  },
+  "Slakoth": {
+    "primary_ability": "Truant",
+    "secondary_ability": "Truant",
+    "hidden_ability": null
+  },
+  "Vigoroth": {
+    "primary_ability": "Vital Spirit",
+    "secondary_ability": "Vital Spirit",
+    "hidden_ability": null
+  },
+  "Slaking": {
+    "primary_ability": "Truant",
+    "secondary_ability": "Truant",
+    "hidden_ability": null
+  },
+  "Nincada": {
+    "primary_ability": "Compound Eyes",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Run Away"
+  },
+  "Ninjask": {
+    "primary_ability": "Speed Boost",
+    "secondary_ability": "Speed Boost",
+    "hidden_ability": "Infiltrator"
+  },
+  "Shedinja": {
+    "primary_ability": "Wonder Guard",
+    "secondary_ability": "Wonder Guard",
+    "hidden_ability": null
+  },
+  "Whismur": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Scrappy"
+  },
+  "Loudred": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Scrappy",
+    "hidden_ability": "Punk Rock"
+  },
+  "Exploud": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Scrappy",
+    "hidden_ability": "Punk Rock"
+  },
+  "Makuhita": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Sheer Force"
+  },
+  "Hariyama": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Sheer Force"
+  },
+  "Azurill": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Huge Power",
+    "hidden_ability": "Sap Sipper"
+  },
+  "Nosepass": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Magnet Pull",
+    "hidden_ability": "Sand Force"
+  },
+  "Skitty": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Wonder Skin",
+    "hidden_ability": "Feline Prowess"
+  },
+  "Delcatty": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Wonder Skin",
+    "hidden_ability": "Feline Prowess"
+  },
+  "Sableye": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Prankster"
+  },
+  "Sableye-Mega": {
+    "primary_ability": "Magic Bounce",
+    "secondary_ability": "Magic Bounce",
+    "hidden_ability": null
+  },
+  "Mawile": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Sheer Force"
+  },
+  "Mawile-Mega": {
+    "primary_ability": "Huge Power",
+    "secondary_ability": "Huge Power",
+    "hidden_ability": null
+  },
+  "Aron": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": "Heavy Metal"
+  },
+  "Lairon": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": "Heavy Metal"
+  },
+  "Aggron": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": "Heavy Metal"
+  },
+  "Aggron-Mega": {
+    "primary_ability": "Filter",
+    "secondary_ability": "Filter",
+    "hidden_ability": null
+  },
+  "Meditite": {
+    "primary_ability": "Pure Power",
+    "secondary_ability": "Pure Power",
+    "hidden_ability": "Telepathy"
+  },
+  "Medicham": {
+    "primary_ability": "Pure Power",
+    "secondary_ability": "Pure Power",
+    "hidden_ability": "Telepathy"
+  },
+  "Medicham-Mega": {
+    "primary_ability": "Pure Power",
+    "secondary_ability": "Pure Power",
+    "hidden_ability": null
+  },
+  "Electrike": {
+    "primary_ability": "Static",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": "Minus"
+  },
+  "Manectric": {
+    "primary_ability": "Static",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": "Intimidate"
+  },
+  "Manectric-Mega": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": null
+  },
+  "Plusle": {
+    "primary_ability": "Plus",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": "Transistor"
+  },
+  "Minun": {
+    "primary_ability": "Minus",
+    "secondary_ability": "Volt Absorb",
+    "hidden_ability": "Galvanize"
+  },
+  "Volbeat": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": null
+  },
+  "Illumise": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Tinted Lens",
+    "hidden_ability": "Prankster"
+  },
+  "Roselia": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Poison Touch",
+    "hidden_ability": "Leaf Guard"
+  },
+  "Gulpin": {
+    "primary_ability": "Liquid Ooze",
+    "secondary_ability": "Sticky Hold",
+    "hidden_ability": "Gluttony"
+  },
+  "Swalot": {
+    "primary_ability": "Liquid Ooze",
+    "secondary_ability": "Sticky Hold",
+    "hidden_ability": "Magic Guard"
+  },
+  "Carvanha": {
+    "primary_ability": "Rough Skin",
+    "secondary_ability": "Rough Skin",
+    "hidden_ability": "Speed Boost"
+  },
+  "Sharpedo": {
+    "primary_ability": "Rough Skin",
+    "secondary_ability": "Rough Skin",
+    "hidden_ability": "Speed Boost"
+  },
+  "Sharpedo-Mega": {
+    "primary_ability": "Strong Jaw",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": null
+  },
+  "Wailmer": {
+    "primary_ability": "Water Veil",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Pressure"
+  },
+  "Wailord": {
+    "primary_ability": "Water Veil",
+    "secondary_ability": "Blubber Defense",
+    "hidden_ability": "Pressure"
+  },
+  "Numel": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Simple",
+    "hidden_ability": "Own Tempo"
+  },
+  "Camerupt": {
+    "primary_ability": "Magma Armor",
+    "secondary_ability": "Solid Rock",
+    "hidden_ability": "Anger Point"
+  },
+  "Camerupt-Mega": {
+    "primary_ability": "Sheer Force",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": null
+  },
+  "Torkoal": {
+    "primary_ability": "White Smoke",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Drought"
+  },
+  "Spoink": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Gluttony"
+  },
+  "Grumpig": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Gluttony"
+  },
+  "Spinda": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Contrary"
+  },
+  "Trapinch": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Arena Trap",
+    "hidden_ability": "Sheer Force"
+  },
+  "Vibrava": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Flygon": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Cacnea": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Sand Rush"
+  },
+  "Cacturne": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Sand Rush"
+  },
+  "Swablu": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": "Cloud Nine"
+  },
+  "Altaria": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": "Cloud Nine"
+  },
+  "Altaria-Mega": {
+    "primary_ability": "Pixilate",
+    "secondary_ability": "Pixilate",
+    "hidden_ability": null
+  },
+  "Zangoose": {
+    "primary_ability": "Tough Claws",
+    "secondary_ability": "Tough Claws",
+    "hidden_ability": "Toxic Boost"
+  },
+  "Seviper": {
+    "primary_ability": "Merciless",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Fatal Precision"
+  },
+  "Lunatone": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Solrock": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Barboach": {
+    "primary_ability": "Hydration",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Oblivious"
+  },
+  "Whiscash": {
+    "primary_ability": "Hydration",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Cash Splash"
+  },
+  "Corphish": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Adaptability"
+  },
+  "Crawdaunt": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Adaptability"
+  },
+  "Baltoy": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Claydol": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Lileep": {
+    "primary_ability": "Suction Cups",
+    "secondary_ability": "Suction Cups",
+    "hidden_ability": "Storm Drain"
+  },
+  "Cradily": {
+    "primary_ability": "Suction Cups",
+    "secondary_ability": "Suction Cups",
+    "hidden_ability": "Storm Drain"
+  },
+  "Anorith": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Skill Link",
+    "hidden_ability": "Swift Swim"
+  },
+  "Armaldo": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Skill Link",
+    "hidden_ability": "Swift Swim"
+  },
+  "Feebas": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Adaptability"
+  },
+  "Feebas-Sevii": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Adaptability"
+  },
+  "Milotic": {
+    "primary_ability": "Marvel Scale",
+    "secondary_ability": "Competitive",
+    "hidden_ability": "Cute Charm"
+  },
+  "Milotic-Sevii": {
+    "primary_ability": "Marvel Scale",
+    "secondary_ability": "Competitive",
+    "hidden_ability": "Serene Grace"
+  },
+  "Castform": {
+    "primary_ability": "Forecast",
+    "secondary_ability": "Forecast",
+    "hidden_ability": null
+  },
+  "Kecleon": {
+    "primary_ability": "Protean",
+    "secondary_ability": "Protean",
+    "hidden_ability": null
+  },
+  "Shuppet": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Wandering Soul"
+  },
+  "Banette": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Wandering Soul"
+  },
+  "Banette-Mega": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Prankster",
+    "hidden_ability": null
+  },
+  "Duskull": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": "Frisk"
+  },
+  "Dusclops": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Frisk"
+  },
+  "Tropius": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Wind Rider",
+    "hidden_ability": "Harvest"
+  },
+  "Chimecho": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Absol": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Super Luck",
+    "hidden_ability": "Justified"
+  },
+  "Absol-Mega": {
+    "primary_ability": "Magic Bounce",
+    "secondary_ability": "Sharpness",
+    "hidden_ability": null
+  },
+  "Wynaut": {
+    "primary_ability": "Shadow Tag",
+    "secondary_ability": "Shadow Tag",
+    "hidden_ability": "Telepathy"
+  },
+  "Snorunt": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Refrigerate"
+  },
+  "Glalie": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Refrigerate"
+  },
+  "Glalie-Mega": {
+    "primary_ability": "Refrigerate",
+    "secondary_ability": "Refrigerate",
+    "hidden_ability": null
+  },
+  "Spheal": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Oblivious"
+  },
+  "Sealeo": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Oblivious"
+  },
+  "Walrein": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Fur Coat"
+  },
+  "Clamperl": {
+    "primary_ability": "Shell Armor",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Hydration"
+  },
+  "Huntail": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Defiant"
+  },
+  "Gorebyss": {
+    "primary_ability": "Dazzling",
+    "secondary_ability": "Dazzling",
+    "hidden_ability": "Regenerator"
+  },
+  "Relicanth": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": "Sturdy"
+  },
+  "Luvdisc": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": "Soul-Heart"
+  },
+  "Bagon": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": "Sheer Force"
+  },
+  "Shelgon": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": "Overcoat"
+  },
+  "Salamence": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Moxie"
+  },
+  "Salamence-Mega": {
+    "primary_ability": "Aerilate",
+    "secondary_ability": "Aerilate",
+    "hidden_ability": null
+  },
+  "Beldum": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": "Magnet Pull"
+  },
+  "Metang": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": "Tough Claws"
+  },
+  "Metagross": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": "Tough Claws"
+  },
+  "Metagross-Mega": {
+    "primary_ability": "Tough Claws",
+    "secondary_ability": "Tough Claws",
+    "hidden_ability": null
+  },
+  "Regirock": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": "Solid Rock"
+  },
+  "Regice": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": "Filter"
+  },
+  "Registeel": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": null
+  },
+  "Latias": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Latias-Mega": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Latios": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Latios-Mega": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Kyogre": {
+    "primary_ability": "Drizzle",
+    "secondary_ability": "Drizzle",
+    "hidden_ability": null
+  },
+  "Kyogre-Primal": {
+    "primary_ability": "Primordial Sea",
+    "secondary_ability": "Primordial Sea",
+    "hidden_ability": null
+  },
+  "Groudon": {
+    "primary_ability": "Drought",
+    "secondary_ability": "Drought",
+    "hidden_ability": null
+  },
+  "Groudon-Primal": {
+    "primary_ability": "Desolate Land",
+    "secondary_ability": "Desolate Land",
+    "hidden_ability": null
+  },
+  "Rayquaza": {
+    "primary_ability": "Air Lock",
+    "secondary_ability": "Air Lock",
+    "hidden_ability": null
+  },
+  "Rayquaza-Mega": {
+    "primary_ability": "Delta Stream",
+    "secondary_ability": "Delta Stream",
+    "hidden_ability": null
+  },
+  "Jirachi": {
+    "primary_ability": "Serene Grace",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": null
+  },
+  "Deoxys": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": null
+  },
+  "Deoxys-Attack": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": null
+  },
+  "Deoxys-Defense": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": null
+  },
+  "Deoxys-Speed": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": null
+  },
+  "Turtwig": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Self Sufficient",
+    "hidden_ability": "Rock Head"
+  },
+  "Grotle": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Self Sufficient",
+    "hidden_ability": "Rock Head"
+  },
+  "Torterra": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Self Sufficient",
+    "hidden_ability": "Rock Head"
+  },
+  "Chimchar": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Iron Fist"
+  },
+  "Monferno": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Iron Fist"
+  },
+  "Infernape": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Iron Fist"
+  },
+  "Piplup": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Competitive"
+  },
+  "Prinplup": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Competitive"
+  },
+  "Empoleon": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Competitive"
+  },
+  "Starly": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Reckless"
+  },
+  "Staravia": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Reckless"
+  },
+  "Staraptor": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Reckless"
+  },
+  "Bidoof": {
+    "primary_ability": "Simple",
+    "secondary_ability": "Unaware",
+    "hidden_ability": null
+  },
+  "Bibarel": {
+    "primary_ability": "Simple",
+    "secondary_ability": "Unaware",
+    "hidden_ability": null
+  },
+  "Kricketot": {
+    "primary_ability": "Technician",
+    "secondary_ability": "Technician",
+    "hidden_ability": null
+  },
+  "Kricketune": {
+    "primary_ability": "Technician",
+    "secondary_ability": "Technician",
+    "hidden_ability": null
+  },
+  "Shinx": {
+    "primary_ability": "Rivalry",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Guts"
+  },
+  "Luxio": {
+    "primary_ability": "Rivalry",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Guts"
+  },
+  "Luxray": {
+    "primary_ability": "Rivalry",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Guts"
+  },
+  "Budew": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Poison Touch",
+    "hidden_ability": "Leaf Guard"
+  },
+  "Roserade": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Poison Touch",
+    "hidden_ability": "Technician"
+  },
+  "Cranidos": {
+    "primary_ability": "Mold Breaker",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Sheer Force"
+  },
+  "Rampardos": {
+    "primary_ability": "Mold Breaker",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Sheer Force"
+  },
+  "Shieldon": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Soundproof"
+  },
+  "Bastiodon": {
+    "primary_ability": "Valiant Shield",
+    "secondary_ability": "Valiant Shield",
+    "hidden_ability": "Soundproof"
+  },
+  "Burmy": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Overcoat"
+  },
+  "Wormadam": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": null
+  },
+  "Wormadam-Sandy": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": null
+  },
+  "Wormadam-Trash": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": null
+  },
+  "Mothim": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Swarm",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Combee": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Swarm",
+    "hidden_ability": "Hustle"
+  },
+  "Vespiquen": {
+    "primary_ability": "Queenly Majesty",
+    "secondary_ability": "Queenly Majesty",
+    "hidden_ability": "Unnerve"
+  },
+  "Pachirisu": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Volt Absorb"
+  },
+  "Buizel": {
+    "primary_ability": "Water Veil",
+    "secondary_ability": "Water Veil",
+    "hidden_ability": "Technician"
+  },
+  "Floatzel": {
+    "primary_ability": "Water Veil",
+    "secondary_ability": "Water Veil",
+    "hidden_ability": "Technician"
+  },
+  "Cherubi": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": null
+  },
+  "Cherrim": {
+    "primary_ability": "Flower Gift",
+    "secondary_ability": "Flower Gift",
+    "hidden_ability": null
+  },
+  "Cherrim-Sunshine": {
+    "primary_ability": "Flower Gift",
+    "secondary_ability": "Flower Gift",
+    "hidden_ability": null
+  },
+  "Shellos": {
+    "primary_ability": "Sticky Hold",
+    "secondary_ability": "Storm Drain",
+    "hidden_ability": "Sand Force"
+  },
+  "Gastrodon": {
+    "primary_ability": "Sticky Hold",
+    "secondary_ability": "Storm Drain",
+    "hidden_ability": "Sand Force"
+  },
+  "Ambipom": {
+    "primary_ability": "Technician",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Skill Link"
+  },
+  "Drifloon": {
+    "primary_ability": "Aftermath",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Flare Boost"
+  },
+  "Drifblim": {
+    "primary_ability": "Aftermath",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Flare Boost"
+  },
+  "Buneary": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Run Away",
+    "hidden_ability": "Limber"
+  },
+  "Lopunny": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Cute Charm",
+    "hidden_ability": "Limber"
+  },
+  "Lopunny-Mega": {
+    "primary_ability": "Scrappy",
+    "secondary_ability": "Scrappy",
+    "hidden_ability": null
+  },
+  "Mismagius": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Honchkrow": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Super Luck",
+    "hidden_ability": "Moxie"
+  },
+  "Glameow": {
+    "primary_ability": "Limber",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Frisk"
+  },
+  "Purugly": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Defiant"
+  },
+  "Chingling": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Stunky": {
+    "primary_ability": "Stench",
+    "secondary_ability": "Aftermath",
+    "hidden_ability": "Frisk"
+  },
+  "Skuntank": {
+    "primary_ability": "Stench",
+    "secondary_ability": "Aftermath",
+    "hidden_ability": "Frisk"
+  },
+  "Bronzor": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Heatproof",
+    "hidden_ability": "Heavy Metal"
+  },
+  "Bronzong": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Heatproof",
+    "hidden_ability": "Heavy Metal"
+  },
+  "Bonsly": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Rock Head",
+    "hidden_ability": null
+  },
+  "Mime Jr.": {
+    "primary_ability": "Soundproof",
+    "secondary_ability": "Filter",
+    "hidden_ability": "Technician"
+  },
+  "Happiny": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": "Friend Guard"
+  },
+  "Chatot": {
+    "primary_ability": "Punk Rock",
+    "secondary_ability": "Punk Rock",
+    "hidden_ability": "Frisk"
+  },
+  "Spiritomb": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Intimidate"
+  },
+  "Gible": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Rough Skin"
+  },
+  "Gabite": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Rough Skin"
+  },
+  "Garchomp": {
+    "primary_ability": "Sand Veil",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Rough Skin"
+  },
+  "Garchomp-Mega": {
+    "primary_ability": "Sand Force",
+    "secondary_ability": "Sand Force",
+    "hidden_ability": null
+  },
+  "Munchlax": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Thick Fat",
+    "hidden_ability": "Gluttony"
+  },
+  "Riolu": {
+    "primary_ability": "Steadfast",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Prankster"
+  },
+  "Lucario": {
+    "primary_ability": "Steadfast",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Justified"
+  },
+  "Lucario-Mega": {
+    "primary_ability": "Adaptability",
+    "secondary_ability": "Adaptability",
+    "hidden_ability": null
+  },
+  "Hippopotas": {
+    "primary_ability": "Sand Stream",
+    "secondary_ability": "Sand Stream",
+    "hidden_ability": "Sand Force"
+  },
+  "Hippowdon": {
+    "primary_ability": "Sand Stream",
+    "secondary_ability": "Sand Stream",
+    "hidden_ability": "Sand Force"
+  },
+  "Skorupi": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Frisk"
+  },
+  "Drapion": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Frisk"
+  },
+  "Croagunk": {
+    "primary_ability": "Dry Skin",
+    "secondary_ability": "Dry Skin",
+    "hidden_ability": "Poison Touch"
+  },
+  "Toxicroak": {
+    "primary_ability": "Dry Skin",
+    "secondary_ability": "Dry Skin",
+    "hidden_ability": "Poison Touch"
+  },
+  "Carnivine": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Carnivine-Sevii": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Finneon": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Storm Drain",
+    "hidden_ability": "Water Veil"
+  },
+  "Lumineon": {
+    "primary_ability": "Dazzling",
+    "secondary_ability": "Storm Drain",
+    "hidden_ability": "Water Veil"
+  },
+  "Mantyke": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Water Veil"
+  },
+  "Mantyke-Sevii": {
+    "primary_ability": "Static",
+    "secondary_ability": "Storm Drain",
+    "hidden_ability": "Hydration"
+  },
+  "Snover": {
+    "primary_ability": "Ice Body",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Soundproof"
+  },
+  "Abomasnow": {
+    "primary_ability": "Snow Warning",
+    "secondary_ability": "Snow Warning",
+    "hidden_ability": "Soundproof"
+  },
+  "Abomasnow-Mega": {
+    "primary_ability": "Slush Rush",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Snow Warning"
+  },
+  "Weavile": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Infiltrator"
+  },
+  "Magnezone": {
+    "primary_ability": "Magnet Pull",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Analytic"
+  },
+  "Lickilicky": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Unaware",
+    "hidden_ability": "Cloud Nine"
+  },
+  "Rhyperior": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Solid Rock",
+    "hidden_ability": "Reckless"
+  },
+  "Tangrowth": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Leaf Guard",
+    "hidden_ability": "Regenerator"
+  },
+  "Electivire": {
+    "primary_ability": "Motor Drive",
+    "secondary_ability": "Vital Spirit",
+    "hidden_ability": "Iron Fist"
+  },
+  "Magmortar": {
+    "primary_ability": "Flame Body",
+    "secondary_ability": "Quick Draw",
+    "hidden_ability": "Mega Launcher"
+  },
+  "Togekiss": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": "Super Luck"
+  },
+  "Yanmega": {
+    "primary_ability": "Speed Boost",
+    "secondary_ability": "Tinted Lens",
+    "hidden_ability": "Frisk"
+  },
+  "Leafeon": {
+    "primary_ability": "Leaf Guard",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Chlorophyll"
+  },
+  "Glaceon": {
+    "primary_ability": "Ice Body",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Slush Rush"
+  },
+  "Gliscor": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Poison Heal"
+  },
+  "Mamoswine": {
+    "primary_ability": "Oblivious",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Thick Fat"
+  },
+  "Porygon-Z": {
+    "primary_ability": "Adaptability",
+    "secondary_ability": "Download",
+    "hidden_ability": "Analytic"
+  },
+  "Gallade": {
+    "primary_ability": "Steadfast",
+    "secondary_ability": "Sharpness",
+    "hidden_ability": "Justified"
+  },
+  "Gallade-Mega": {
+    "primary_ability": "Sharpness",
+    "secondary_ability": "Sharpness",
+    "hidden_ability": "Inner Focus"
+  },
+  "Probopass": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Magnet Pull",
+    "hidden_ability": "Levitate"
+  },
+  "Dusknoir": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Hustle"
+  },
+  "Froslass": {
+    "primary_ability": "Ice Body",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Stakeout"
+  },
+  "Rotom": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Rotom-Heat": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Rotom-Wash": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Rotom-Frost": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Rotom-Fan": {
+    "primary_ability": "Motor Drive",
+    "secondary_ability": "Motor Drive",
+    "hidden_ability": null
+  },
+  "Rotom-Mow": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Uxie": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Mesprit": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Azelf": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Dialga": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Telepathy"
+  },
+  "Dialga-Origin": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Telepathy"
+  },
+  "Dialga-Primal": {
+    "primary_ability": "Primal Armor",
+    "secondary_ability": "Primal Armor",
+    "hidden_ability": null
+  },
+  "Palkia": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Telepathy"
+  },
+  "Palkia-Origin": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Telepathy"
+  },
+  "Heatran": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Flame Body"
+  },
+  "Regigigas": {
+    "primary_ability": "Slow Start",
+    "secondary_ability": "Slow Start",
+    "hidden_ability": "Comatose"
+  },
+  "Giratina": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": "Telepathy"
+  },
+  "Giratina-Origin": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Cresselia": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Phione": {
+    "primary_ability": "Hydration",
+    "secondary_ability": "Hydration",
+    "hidden_ability": null
+  },
+  "Manaphy": {
+    "primary_ability": "Hydration",
+    "secondary_ability": "Hydration",
+    "hidden_ability": null
+  },
+  "Darkrai": {
+    "primary_ability": "Bad Dreams",
+    "secondary_ability": "Bad Dreams",
+    "hidden_ability": null
+  },
+  "Shaymin": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": null
+  },
+  "Shaymin-Sky": {
+    "primary_ability": "Serene Grace",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": null
+  },
+  "Arceus": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Fighting": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Flying": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Poison": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Ground": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Rock": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Bug": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Ghost": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Steel": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Fire": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Water": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Grass": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Electric": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Psychic": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Ice": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Dragon": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Dark": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Arceus-Fairy": {
+    "primary_ability": "Multitype",
+    "secondary_ability": "Multitype",
+    "hidden_ability": null
+  },
+  "Victini": {
+    "primary_ability": "Victory Star",
+    "secondary_ability": "Victory Star",
+    "hidden_ability": null
+  },
+  "Snivy": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Contrary"
+  },
+  "Servine": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Contrary"
+  },
+  "Serperior": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Contrary"
+  },
+  "Tepig": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Thick Fat"
+  },
+  "Pignite": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Thick Fat"
+  },
+  "Emboar": {
+    "primary_ability": "Reckless",
+    "secondary_ability": "Reckless",
+    "hidden_ability": "Bull Rush"
+  },
+  "Oshawott": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": null
+  },
+  "Dewott": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": null
+  },
+  "Samurott": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Sharpness"
+  },
+  "Samurott-Hisui": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Sharpness"
+  },
+  "Patrat": {
+    "primary_ability": "Analytic",
+    "secondary_ability": "No Guard",
+    "hidden_ability": "Frisk"
+  },
+  "Watchog": {
+    "primary_ability": "Analytic",
+    "secondary_ability": "No Guard",
+    "hidden_ability": "Frisk"
+  },
+  "Lillipup": {
+    "primary_ability": "Vital Spirit",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Run Away"
+  },
+  "Herdier": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Sand Rush",
+    "hidden_ability": "Scrappy"
+  },
+  "Stoutland": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Sand Rush",
+    "hidden_ability": "Scrappy"
+  },
+  "Purrloin": {
+    "primary_ability": "Limber",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Prankster"
+  },
+  "Liepard": {
+    "primary_ability": "Moxie",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Prankster"
+  },
+  "Pansage": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Overgrow"
+  },
+  "Simisage": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Sage Power"
+  },
+  "Pansear": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Blaze"
+  },
+  "Simisear": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Sage Power"
+  },
+  "Panpour": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Torrent"
+  },
+  "Simipour": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Sage Power"
+  },
+  "Munna": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": "Telepathy"
+  },
+  "Musharna": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": "Unaware"
+  },
+  "Pidove": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Super Luck",
+    "hidden_ability": "Rivalry"
+  },
+  "Tranquill": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Super Luck",
+    "hidden_ability": "Rivalry"
+  },
+  "Unfezant": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Super Luck",
+    "hidden_ability": "Rivalry"
+  },
+  "Blitzle": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Flare Boost"
+  },
+  "Blitzle-Sevii": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Ice Body"
+  },
+  "Zebstrika": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Flare Boost"
+  },
+  "Zebstrika-Sevii": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Ice Body"
+  },
+  "Roggenrola": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Weak Armor",
+    "hidden_ability": "Sand Force"
+  },
+  "Boldore": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Weak Armor",
+    "hidden_ability": "Sand Force"
+  },
+  "Gigalith": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Sand Stream",
+    "hidden_ability": "Sand Force"
+  },
+  "Woobat": {
+    "primary_ability": "Unaware",
+    "secondary_ability": "Unaware",
+    "hidden_ability": "Simple"
+  },
+  "Swoobat": {
+    "primary_ability": "Unaware",
+    "secondary_ability": "Unaware",
+    "hidden_ability": "Simple"
+  },
+  "Drilbur": {
+    "primary_ability": "Sand Rush",
+    "secondary_ability": "Sand Force",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Excadrill": {
+    "primary_ability": "Sand Rush",
+    "secondary_ability": "Sand Force",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Audino": {
+    "primary_ability": "Regenerator",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": null
+  },
+  "Audino-Mega": {
+    "primary_ability": "Regenerator",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": null
+  },
+  "Timburr": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Iron Fist"
+  },
+  "Gurdurr": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Iron Fist"
+  },
+  "Conkeldurr": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Iron Fist"
+  },
+  "Tympole": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Water Absorb"
+  },
+  "Palpitoad": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Water Absorb"
+  },
+  "Seismitoad": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Poison Touch",
+    "hidden_ability": "Water Absorb"
+  },
+  "Throh": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Sawk": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Contrary"
+  },
+  "Sewaddle": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Overcoat"
+  },
+  "Swadloon": {
+    "primary_ability": "Leaf Guard",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Overcoat"
+  },
+  "Leavanny": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Sharpness"
+  },
+  "Venipede": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Swarm",
+    "hidden_ability": "Speed Boost"
+  },
+  "Whirlipede": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Swarm",
+    "hidden_ability": "Speed Boost"
+  },
+  "Scolipede": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Swarm",
+    "hidden_ability": "Speed Boost"
+  },
+  "Cottonee": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Chlorophyll"
+  },
+  "Whimsicott": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Chlorophyll"
+  },
+  "Petilil": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Leaf Guard"
+  },
+  "Lilligant": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Leaf Guard"
+  },
+  "Lilligant-Hisui": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Leaf Guard"
+  },
+  "Basculin": {
+    "primary_ability": "Reckless",
+    "secondary_ability": "Adaptability",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Basculin-Blue-Striped": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Adaptability",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Sandile": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Moxie",
+    "hidden_ability": "Anger Point"
+  },
+  "Krokorok": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Moxie",
+    "hidden_ability": "Anger Point"
+  },
+  "Krookodile": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Moxie",
+    "hidden_ability": "Anger Point"
+  },
+  "Darumaka": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Inner Focus"
+  },
+  "Darumaka-Galar": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Inner Focus"
+  },
+  "Darmanitan": {
+    "primary_ability": "Sheer Force",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Zen Mode"
+  },
+  "Darmanitan-Zen": {
+    "primary_ability": "Zen Mode",
+    "secondary_ability": "Zen Mode",
+    "hidden_ability": null
+  },
+  "Darmanitan-Galar": {
+    "primary_ability": "Gorilla Tactics",
+    "secondary_ability": "Gorilla Tactics",
+    "hidden_ability": "Zen Mode"
+  },
+  "Darmanitan-Galar-Zen": {
+    "primary_ability": "Zen Mode",
+    "secondary_ability": "Zen Mode",
+    "hidden_ability": null
+  },
+  "Maractus": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Chlorophyll",
+    "hidden_ability": "Grassy Surge"
+  },
+  "Dwebble": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Weak Armor"
+  },
+  "Crustle": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Weak Armor"
+  },
+  "Scraggy": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Moxie"
+  },
+  "Scrafty": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": "Moxie"
+  },
+  "Sigilyph": {
+    "primary_ability": "Wonder Skin",
+    "secondary_ability": "Magic Guard",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Yamask": {
+    "primary_ability": "Mummy",
+    "secondary_ability": "Mummy",
+    "hidden_ability": "Shadow Shield"
+  },
+  "Yamask-Galar": {
+    "primary_ability": "Wandering Soul",
+    "secondary_ability": "Wandering Soul",
+    "hidden_ability": "Shadow Shield"
+  },
+  "Cofagrigus": {
+    "primary_ability": "Mummy",
+    "secondary_ability": "Mummy",
+    "hidden_ability": "Shadow Shield"
+  },
+  "Tirtouga": {
+    "primary_ability": "Solid Rock",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Swift Swim"
+  },
+  "Carracosta": {
+    "primary_ability": "Solid Rock",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Swift Swim"
+  },
+  "Archen": {
+    "primary_ability": "Defeatist",
+    "secondary_ability": "Defeatist",
+    "hidden_ability": null
+  },
+  "Archeops": {
+    "primary_ability": "Defeatist",
+    "secondary_ability": "Defeatist",
+    "hidden_ability": null
+  },
+  "Trubbish": {
+    "primary_ability": "Stench",
+    "secondary_ability": "Sticky Hold",
+    "hidden_ability": "Aftermath"
+  },
+  "Garbodor": {
+    "primary_ability": "Gooey",
+    "secondary_ability": "Weak Armor",
+    "hidden_ability": "Aftermath"
+  },
+  "Garbodor-Mega": {
+    "primary_ability": "Parasitic Waste",
+    "secondary_ability": "Parasitic Waste",
+    "hidden_ability": null
+  },
+  "Zorua": {
+    "primary_ability": "Illusion",
+    "secondary_ability": "Illusion",
+    "hidden_ability": null
+  },
+  "Zorua-Hisui": {
+    "primary_ability": "Illusion",
+    "secondary_ability": "Illusion",
+    "hidden_ability": null
+  },
+  "Zoroark": {
+    "primary_ability": "Illusion",
+    "secondary_ability": "Illusion",
+    "hidden_ability": null
+  },
+  "Zoroark-Hisui": {
+    "primary_ability": "Illusion",
+    "secondary_ability": "Illusion",
+    "hidden_ability": null
+  },
+  "Minccino": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Skill Link"
+  },
+  "Cinccino": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Skill Link"
+  },
+  "Gothita": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Competitive",
+    "hidden_ability": "Shadow Tag"
+  },
+  "Gothorita": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Competitive",
+    "hidden_ability": "Shadow Tag"
+  },
+  "Gothitelle": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Competitive",
+    "hidden_ability": "Shadow Tag"
+  },
+  "Solosis": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Magic Guard",
+    "hidden_ability": "Regenerator"
+  },
+  "Duosion": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Magic Guard",
+    "hidden_ability": "Regenerator"
+  },
+  "Reuniclus": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Magic Guard",
+    "hidden_ability": "Regenerator"
+  },
+  "Ducklett": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Hydration"
+  },
+  "Swanna": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "No Guard"
+  },
+  "Vanillite": {
+    "primary_ability": "Ice Body",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Weak Armor"
+  },
+  "Vanillish": {
+    "primary_ability": "Ice Body",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Weak Armor"
+  },
+  "Vanilluxe": {
+    "primary_ability": "Ice Body",
+    "secondary_ability": "Snow Warning",
+    "hidden_ability": "Weak Armor"
+  },
+  "Deerling": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Serene Grace"
+  },
+  "Sawsbuck": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Serene Grace"
+  },
+  "Emolga": {
+    "primary_ability": "Motor Drive",
+    "secondary_ability": "Motor Drive",
+    "hidden_ability": "Lightning Rod"
+  },
+  "Karrablast": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "No Guard"
+  },
+  "Escavalier": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Overcoat"
+  },
+  "Foongus": {
+    "primary_ability": "Effect Spore",
+    "secondary_ability": "Effect Spore",
+    "hidden_ability": "Regenerator"
+  },
+  "Amoonguss": {
+    "primary_ability": "Effect Spore",
+    "secondary_ability": "Effect Spore",
+    "hidden_ability": "Regenerator"
+  },
+  "Frillish": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Damp",
+    "hidden_ability": "Water Bubble"
+  },
+  "Jellicent": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Damp",
+    "hidden_ability": "Water Bubble"
+  },
+  "Alomomola": {
+    "primary_ability": "Hydration",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Regenerator"
+  },
+  "Joltik": {
+    "primary_ability": "Compound Eyes",
+    "secondary_ability": "Unnerve",
+    "hidden_ability": "Swarm"
+  },
+  "Galvantula": {
+    "primary_ability": "Compound Eyes",
+    "secondary_ability": "Unnerve",
+    "hidden_ability": "Swarm"
+  },
+  "Ferroseed": {
+    "primary_ability": "Iron Barbs",
+    "secondary_ability": "Iron Barbs",
+    "hidden_ability": null
+  },
+  "Ferrothorn": {
+    "primary_ability": "Iron Barbs",
+    "secondary_ability": "Iron Barbs",
+    "hidden_ability": null
+  },
+  "Klink": {
+    "primary_ability": "Plus",
+    "secondary_ability": "Minus",
+    "hidden_ability": "Clear Body"
+  },
+  "Klang": {
+    "primary_ability": "Plus",
+    "secondary_ability": "Minus",
+    "hidden_ability": "Clear Body"
+  },
+  "Klinklang": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": "Steely Spirit"
+  },
+  "Tynamo": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Eelektrik": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Eelektross": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": "Fatal Precision"
+  },
+  "Elgyem": {
+    "primary_ability": "Telepathy",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": "Analytic"
+  },
+  "Beheeyem": {
+    "primary_ability": "Analytic",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": null
+  },
+  "Litwick": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Shadow Tag"
+  },
+  "Lampent": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Shadow Tag"
+  },
+  "Chandelure": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Shadow Tag"
+  },
+  "Axew": {
+    "primary_ability": "Rivalry",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Unnerve"
+  },
+  "Fraxure": {
+    "primary_ability": "Rivalry",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Unnerve"
+  },
+  "Haxorus": {
+    "primary_ability": "Rivalry",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Unnerve"
+  },
+  "Cubchoo": {
+    "primary_ability": "Slush Rush",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Swift Swim"
+  },
+  "Beartic": {
+    "primary_ability": "Slush Rush",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Swift Swim"
+  },
+  "Cryogonal": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Shelmet": {
+    "primary_ability": "Hydration",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Overcoat"
+  },
+  "Accelgor": {
+    "primary_ability": "Hydration",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Sheer Force"
+  },
+  "Stunfisk": {
+    "primary_ability": "Static",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Sand Veil"
+  },
+  "Stunfisk-Galar": {
+    "primary_ability": "Filter",
+    "secondary_ability": "Filter",
+    "hidden_ability": "Iron Barbs"
+  },
+  "Mienfoo": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": "Reckless"
+  },
+  "Mienshao": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": "Reckless"
+  },
+  "Druddigon": {
+    "primary_ability": "Rough Skin",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Golett": {
+    "primary_ability": "Iron Fist",
+    "secondary_ability": "Iron Fist",
+    "hidden_ability": "No Guard"
+  },
+  "Golurk": {
+    "primary_ability": "Iron Fist",
+    "secondary_ability": "Iron Fist",
+    "hidden_ability": "No Guard"
+  },
+  "Pawniard": {
+    "primary_ability": "Defiant",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Pressure"
+  },
+  "Bisharp": {
+    "primary_ability": "Defiant",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Pressure"
+  },
+  "Bouffalant": {
+    "primary_ability": "Reckless",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Bull Rush"
+  },
+  "Rufflet": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Hustle"
+  },
+  "Braviary": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Defiant"
+  },
+  "Braviary-Hisui": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Vullaby": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": "Weak Armor"
+  },
+  "Mandibuzz": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": "Weak Armor"
+  },
+  "Heatmor": {
+    "primary_ability": "Gluttony",
+    "secondary_ability": "Flash Fire",
+    "hidden_ability": "Fatal Precision"
+  },
+  "Durant": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Truant"
+  },
+  "Deino": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Hustle",
+    "hidden_ability": null
+  },
+  "Zweilous": {
+    "primary_ability": "Hustle",
+    "secondary_ability": "Hustle",
+    "hidden_ability": null
+  },
+  "Hydreigon": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Larvesta": {
+    "primary_ability": "Flame Body",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Swarm"
+  },
+  "Volcarona": {
+    "primary_ability": "Flame Body",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Swarm"
+  },
+  "Cobalion": {
+    "primary_ability": "Justified",
+    "secondary_ability": "Justified",
+    "hidden_ability": "Sharpness"
+  },
+  "Terrakion": {
+    "primary_ability": "Justified",
+    "secondary_ability": "Justified",
+    "hidden_ability": "Sharpness"
+  },
+  "Virizion": {
+    "primary_ability": "Justified",
+    "secondary_ability": "Justified",
+    "hidden_ability": "Sharpness"
+  },
+  "Tornadus": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Prankster",
+    "hidden_ability": "Defiant"
+  },
+  "Tornadus-Therian": {
+    "primary_ability": "Regenerator",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": null
+  },
+  "Thundurus": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Prankster",
+    "hidden_ability": "Defiant"
+  },
+  "Thundurus-Therian": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Volt Absorb",
+    "hidden_ability": null
+  },
+  "Reshiram": {
+    "primary_ability": "Turboblaze",
+    "secondary_ability": "Turboblaze",
+    "hidden_ability": null
+  },
+  "Zekrom": {
+    "primary_ability": "Teravolt",
+    "secondary_ability": "Teravolt",
+    "hidden_ability": null
+  },
+  "Landorus": {
+    "primary_ability": "Sand Force",
+    "secondary_ability": "Sand Force",
+    "hidden_ability": "Sheer Force"
+  },
+  "Landorus-Therian": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Intimidate",
+    "hidden_ability": null
+  },
+  "Kyurem": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": null
+  },
+  "Kyurem-White": {
+    "primary_ability": "Turboblaze",
+    "secondary_ability": "Turboblaze",
+    "hidden_ability": null
+  },
+  "Kyurem-Black": {
+    "primary_ability": "Teravolt",
+    "secondary_ability": "Teravolt",
+    "hidden_ability": null
+  },
+  "Keldeo": {
+    "primary_ability": "Justified",
+    "secondary_ability": "Justified",
+    "hidden_ability": "Sharpness"
+  },
+  "Keldeo-Resolute": {
+    "primary_ability": "Justified",
+    "secondary_ability": "Justified",
+    "hidden_ability": "Sharpness"
+  },
+  "Meloetta": {
+    "primary_ability": "Serene Grace",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": null
+  },
+  "Meloetta-Pirouette": {
+    "primary_ability": "Serene Grace",
+    "secondary_ability": "Serene Grace",
+    "hidden_ability": null
+  },
+  "Genesect": {
+    "primary_ability": "Download",
+    "secondary_ability": "Download",
+    "hidden_ability": null
+  },
+  "Chespin": {
+    "primary_ability": "Bulletproof",
+    "secondary_ability": "Bulletproof",
+    "hidden_ability": "Iron Barbs"
+  },
+  "Quilladin": {
+    "primary_ability": "Bulletproof",
+    "secondary_ability": "Bulletproof",
+    "hidden_ability": "Iron Barbs"
+  },
+  "Chesnaught": {
+    "primary_ability": "Bulletproof",
+    "secondary_ability": "Bulletproof",
+    "hidden_ability": "Iron Barbs"
+  },
+  "Fennekin": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Magic Guard"
+  },
+  "Braixen": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Magic Guard"
+  },
+  "Delphox": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Magic Guard"
+  },
+  "Froakie": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Protean"
+  },
+  "Frogadier": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Protean"
+  },
+  "Greninja": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Battle Bond",
+    "hidden_ability": "Protean"
+  },
+  "Greninja-Ash": {
+    "primary_ability": "Battle Bond",
+    "secondary_ability": "Battle Bond",
+    "hidden_ability": null
+  },
+  "Bunnelby": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Cheek Pouch",
+    "hidden_ability": "Huge Power"
+  },
+  "Diggersby": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Cheek Pouch",
+    "hidden_ability": "Huge Power"
+  },
+  "Fletchling": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Gale Wings"
+  },
+  "Fletchinder": {
+    "primary_ability": "Flame Body",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Gale Wings"
+  },
+  "Talonflame": {
+    "primary_ability": "Flame Body",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Gale Wings"
+  },
+  "Scatterbug": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Friend Guard"
+  },
+  "Spewpa": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Friend Guard"
+  },
+  "Vivillon": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Friend Guard"
+  },
+  "Litleo": {
+    "primary_ability": "Rivalry",
+    "secondary_ability": "Unnerve",
+    "hidden_ability": "Adaptability"
+  },
+  "Pyroar": {
+    "primary_ability": "Rivalry",
+    "secondary_ability": "Moxie",
+    "hidden_ability": "Adaptability"
+  },
+  "Flab\u00e9b\u00e9": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": null
+  },
+  "Floette": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": null
+  },
+  "Floette-Eternal": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": null
+  },
+  "Florges": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": null
+  },
+  "Skiddo": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Grass Pelt"
+  },
+  "Gogoat": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Grass Pelt"
+  },
+  "Pancham": {
+    "primary_ability": "Iron Fist",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Scrappy"
+  },
+  "Pangoro": {
+    "primary_ability": "Iron Fist",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Scrappy"
+  },
+  "Furfrou": {
+    "primary_ability": "Fur Coat",
+    "secondary_ability": "Fur Coat",
+    "hidden_ability": null
+  },
+  "Espurr": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": "Infiltrator"
+  },
+  "Meowstic": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Feline Prowess",
+    "hidden_ability": "Infiltrator"
+  },
+  "Meowstic-F": {
+    "primary_ability": "Competitive",
+    "secondary_ability": "Feline Prowess",
+    "hidden_ability": "Infiltrator"
+  },
+  "Honedge": {
+    "primary_ability": "Sharpness",
+    "secondary_ability": "Sharpness",
+    "hidden_ability": null
+  },
+  "Doublade": {
+    "primary_ability": "Sharpness",
+    "secondary_ability": "Sharpness",
+    "hidden_ability": null
+  },
+  "Aegislash-Shield": {
+    "primary_ability": "Stance Change",
+    "secondary_ability": "Stance Change",
+    "hidden_ability": null
+  },
+  "Aegislash-Blade": {
+    "primary_ability": "Stance Change",
+    "secondary_ability": "Stance Change",
+    "hidden_ability": null
+  },
+  "Spritzee": {
+    "primary_ability": "Fairy Aura",
+    "secondary_ability": "Fairy Aura",
+    "hidden_ability": "Aroma Veil"
+  },
+  "Aromatisse": {
+    "primary_ability": "Fairy Aura",
+    "secondary_ability": "Fairy Aura",
+    "hidden_ability": "Aroma Veil"
+  },
+  "Swirlix": {
+    "primary_ability": "Sweet Veil",
+    "secondary_ability": "Sweet Veil",
+    "hidden_ability": "Unburden"
+  },
+  "Slurpuff": {
+    "primary_ability": "Sweet Veil",
+    "secondary_ability": "Sweet Veil",
+    "hidden_ability": "Unburden"
+  },
+  "Inkay": {
+    "primary_ability": "Contrary",
+    "secondary_ability": "Suction Cups",
+    "hidden_ability": "Infiltrator"
+  },
+  "Malamar": {
+    "primary_ability": "Contrary",
+    "secondary_ability": "Suction Cups",
+    "hidden_ability": "Infiltrator"
+  },
+  "Binacle": {
+    "primary_ability": "Tough Claws",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Infiltrator"
+  },
+  "Barbaracle": {
+    "primary_ability": "Tough Claws",
+    "secondary_ability": "Sniper",
+    "hidden_ability": "Infiltrator"
+  },
+  "Skrelp": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Poison Touch",
+    "hidden_ability": "Adaptability"
+  },
+  "Dragalge": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Poison Touch",
+    "hidden_ability": "Adaptability"
+  },
+  "Clauncher": {
+    "primary_ability": "Mega Launcher",
+    "secondary_ability": "Mega Launcher",
+    "hidden_ability": null
+  },
+  "Clauncher-Sevii": {
+    "primary_ability": "Mega Launcher",
+    "secondary_ability": "Mega Launcher",
+    "hidden_ability": null
+  },
+  "Clawitzer": {
+    "primary_ability": "Mega Launcher",
+    "secondary_ability": "Mega Launcher",
+    "hidden_ability": null
+  },
+  "Clawitzer-Sevii": {
+    "primary_ability": "Mega Launcher",
+    "secondary_ability": "Mega Launcher",
+    "hidden_ability": null
+  },
+  "Helioptile": {
+    "primary_ability": "Dry Skin",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Solar Power"
+  },
+  "Heliolisk": {
+    "primary_ability": "Dry Skin",
+    "secondary_ability": "Sand Veil",
+    "hidden_ability": "Solar Power"
+  },
+  "Tyrunt": {
+    "primary_ability": "Strong Jaw",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Sturdy"
+  },
+  "Tyrantrum": {
+    "primary_ability": "Strong Jaw",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Rock Head"
+  },
+  "Amaura": {
+    "primary_ability": "Refrigerate",
+    "secondary_ability": "Refrigerate",
+    "hidden_ability": "Snow Warning"
+  },
+  "Aurorus": {
+    "primary_ability": "Refrigerate",
+    "secondary_ability": "Refrigerate",
+    "hidden_ability": "Snow Warning"
+  },
+  "Sylveon": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Cute Charm",
+    "hidden_ability": "Pixilate"
+  },
+  "Hawlucha": {
+    "primary_ability": "Limber",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Dedenne": {
+    "primary_ability": "Cheek Pouch",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Electric Surge"
+  },
+  "Carbink": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": "Sturdy"
+  },
+  "Goomy": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Gooey"
+  },
+  "Sliggoo": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Gooey"
+  },
+  "Sliggoo-Hisui": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": "Gooey"
+  },
+  "Goodra": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Hydration",
+    "hidden_ability": "Gooey"
+  },
+  "Goodra-Hisui": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": "Gooey"
+  },
+  "Klefki": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Prankster",
+    "hidden_ability": "Magician"
+  },
+  "Phantump": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Harvest"
+  },
+  "Trevenant": {
+    "primary_ability": "Natural Cure",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Harvest"
+  },
+  "Pumpkaboo": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Insomnia"
+  },
+  "Gourgeist": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Flare Boost"
+  },
+  "Bergmite": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Sturdy"
+  },
+  "Avalugg": {
+    "primary_ability": "Filter",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Sturdy"
+  },
+  "Avalugg-Hisui": {
+    "primary_ability": "Strong Jaw",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Technician"
+  },
+  "Noibat": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Telepathy"
+  },
+  "Noibat-Sevii": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Levitate"
+  },
+  "Noivern": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Telepathy"
+  },
+  "Noivern-Sevii": {
+    "primary_ability": "Rock Head",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": "Levitate"
+  },
+  "Xerneas": {
+    "primary_ability": "Fairy Aura",
+    "secondary_ability": "Fairy Aura",
+    "hidden_ability": null
+  },
+  "Yveltal": {
+    "primary_ability": "Dark Aura",
+    "secondary_ability": "Dark Aura",
+    "hidden_ability": null
+  },
+  "Zygarde": {
+    "primary_ability": "Power Construct",
+    "secondary_ability": "Power Construct",
+    "hidden_ability": null
+  },
+  "Zygarde-10%": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": null
+  },
+  "Zygarde-Complete": {
+    "primary_ability": "Power Construct",
+    "secondary_ability": "Power Construct",
+    "hidden_ability": null
+  },
+  "Diancie": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": null
+  },
+  "Diancie-Mega": {
+    "primary_ability": "Magic Bounce",
+    "secondary_ability": "Magic Bounce",
+    "hidden_ability": null
+  },
+  "Hoopa": {
+    "primary_ability": "Magician",
+    "secondary_ability": "Magician",
+    "hidden_ability": null
+  },
+  "Hoopa-Unbound": {
+    "primary_ability": "Magician",
+    "secondary_ability": "Magician",
+    "hidden_ability": null
+  },
+  "Volcanion": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": null
+  },
+  "Rowlet": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Dartrix": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Decidueye": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Decidueye-Hisui": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Striker",
+    "hidden_ability": "Quill Rush"
+  },
+  "Litten": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Intimidate"
+  },
+  "Torracat": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Intimidate"
+  },
+  "Incineroar": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Intimidate"
+  },
+  "Popplio": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Liquid Voice"
+  },
+  "Brionne": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Liquid Voice"
+  },
+  "Primarina": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Liquid Voice"
+  },
+  "Pikipek": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Skill Link",
+    "hidden_ability": "Pickup"
+  },
+  "Trumbeak": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Skill Link",
+    "hidden_ability": "Pickup"
+  },
+  "Toucannon": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Skill Link",
+    "hidden_ability": "Sheer Force"
+  },
+  "Yungoos": {
+    "primary_ability": "Stakeout",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Adaptability"
+  },
+  "Gumshoos": {
+    "primary_ability": "Stakeout",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Adaptability"
+  },
+  "Grubbin": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Swarm",
+    "hidden_ability": null
+  },
+  "Charjabug": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Swarm",
+    "hidden_ability": null
+  },
+  "Vikavolt": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Crabrawler": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Iron Fist",
+    "hidden_ability": "Anger Point"
+  },
+  "Crabominable": {
+    "primary_ability": "Hyper Cutter",
+    "secondary_ability": "Iron Fist",
+    "hidden_ability": "Anger Point"
+  },
+  "Oricorio": {
+    "primary_ability": "Dancer",
+    "secondary_ability": "Dancer",
+    "hidden_ability": null
+  },
+  "Oricorio-Pom-Pom": {
+    "primary_ability": "Dancer",
+    "secondary_ability": "Dancer",
+    "hidden_ability": null
+  },
+  "Oricorio-Pa'u": {
+    "primary_ability": "Dancer",
+    "secondary_ability": "Dancer",
+    "hidden_ability": null
+  },
+  "Oricorio-Sensu": {
+    "primary_ability": "Dancer",
+    "secondary_ability": "Dancer",
+    "hidden_ability": null
+  },
+  "Cutiefly": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Shield Dust",
+    "hidden_ability": "Sweet Veil"
+  },
+  "Ribombee": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Shield Dust",
+    "hidden_ability": "Sweet Veil"
+  },
+  "Rockruff": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Vital Spirit",
+    "hidden_ability": "Steadfast"
+  },
+  "Lycanroc": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Sand Rush",
+    "hidden_ability": "Steadfast"
+  },
+  "Lycanroc-Midnight": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Vital Spirit",
+    "hidden_ability": "No Guard"
+  },
+  "Lycanroc-Dusk": {
+    "primary_ability": "Tough Claws",
+    "secondary_ability": "Tough Claws",
+    "hidden_ability": null
+  },
+  "Wishiwashi": {
+    "primary_ability": "Schooling",
+    "secondary_ability": "Schooling",
+    "hidden_ability": null
+  },
+  "Wishiwashi-School": {
+    "primary_ability": "Schooling",
+    "secondary_ability": "Schooling",
+    "hidden_ability": null
+  },
+  "Wishiwashi-Sevii": {
+    "primary_ability": "Schooling",
+    "secondary_ability": "Schooling",
+    "hidden_ability": null
+  },
+  "Wishiwashi-Sevii-School": {
+    "primary_ability": "Schooling",
+    "secondary_ability": "Schooling",
+    "hidden_ability": null
+  },
+  "Mareanie": {
+    "primary_ability": "Merciless",
+    "secondary_ability": "Limber",
+    "hidden_ability": "Regenerator"
+  },
+  "Toxapex": {
+    "primary_ability": "Merciless",
+    "secondary_ability": "Limber",
+    "hidden_ability": "Regenerator"
+  },
+  "Mudbray": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Stamina",
+    "hidden_ability": "Inner Focus"
+  },
+  "Mudsdale": {
+    "primary_ability": "Striker",
+    "secondary_ability": "Stamina",
+    "hidden_ability": "Tangling Hair"
+  },
+  "Dewpider": {
+    "primary_ability": "Water Bubble",
+    "secondary_ability": "Water Bubble",
+    "hidden_ability": "Water Absorb"
+  },
+  "Araquanid": {
+    "primary_ability": "Water Bubble",
+    "secondary_ability": "Water Bubble",
+    "hidden_ability": "Water Absorb"
+  },
+  "Fomantis": {
+    "primary_ability": "Leaf Guard",
+    "secondary_ability": "Leaf Guard",
+    "hidden_ability": "Contrary"
+  },
+  "Lurantis": {
+    "primary_ability": "Leaf Guard",
+    "secondary_ability": "Leaf Guard",
+    "hidden_ability": "Contrary"
+  },
+  "Morelull": {
+    "primary_ability": "Effect Spore",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Rain Dish"
+  },
+  "Shiinotic": {
+    "primary_ability": "Effect Spore",
+    "secondary_ability": "Illuminate",
+    "hidden_ability": "Rain Dish"
+  },
+  "Salandit": {
+    "primary_ability": "Corrosion",
+    "secondary_ability": "Corrosion",
+    "hidden_ability": "Oblivious"
+  },
+  "Salazzle": {
+    "primary_ability": "Corrosion",
+    "secondary_ability": "Corrosion",
+    "hidden_ability": "Oblivious"
+  },
+  "Stufful": {
+    "primary_ability": "Fluffy",
+    "secondary_ability": "Fluffy",
+    "hidden_ability": "Cute Charm"
+  },
+  "Bewear": {
+    "primary_ability": "Fluffy",
+    "secondary_ability": "Fluffy",
+    "hidden_ability": "Unnerve"
+  },
+  "Bounsweet": {
+    "primary_ability": "Leaf Guard",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Sweet Veil"
+  },
+  "Steenee": {
+    "primary_ability": "Leaf Guard",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Sweet Veil"
+  },
+  "Tsareena": {
+    "primary_ability": "Leaf Guard",
+    "secondary_ability": "Queenly Majesty",
+    "hidden_ability": "Striker"
+  },
+  "Comfey": {
+    "primary_ability": "Triage",
+    "secondary_ability": "Triage",
+    "hidden_ability": "Natural Cure"
+  },
+  "Oranguru": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Telepathy",
+    "hidden_ability": "Sage Power"
+  },
+  "Passimian": {
+    "primary_ability": "Receiver",
+    "secondary_ability": "Receiver",
+    "hidden_ability": "Defiant"
+  },
+  "Wimpod": {
+    "primary_ability": "Wimp Out",
+    "secondary_ability": "Wimp Out",
+    "hidden_ability": null
+  },
+  "Golisopod": {
+    "primary_ability": "Emergency Exit",
+    "secondary_ability": "Emergency Exit",
+    "hidden_ability": null
+  },
+  "Sandygast": {
+    "primary_ability": "WaterCompaction",
+    "secondary_ability": "WaterCompaction",
+    "hidden_ability": "Sand Veil"
+  },
+  "Palossand": {
+    "primary_ability": "WaterCompaction",
+    "secondary_ability": "WaterCompaction",
+    "hidden_ability": "Sand Veil"
+  },
+  "Pyukumuku": {
+    "primary_ability": "Innards Out",
+    "secondary_ability": "Innards Out",
+    "hidden_ability": "Unaware"
+  },
+  "Type: Null": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Fighting": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Flying": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Poison": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Ground": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Rock": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Bug": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Ghost": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Steel": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Fire": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Water": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Grass": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Electric": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Psychic": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Ice": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Dragon": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Dark": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Silvally-Fairy": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": null
+  },
+  "Minior": {
+    "primary_ability": "Shields Down",
+    "secondary_ability": "Shields Down",
+    "hidden_ability": null
+  },
+  "Minior-Meteor": {
+    "primary_ability": "Shields Down",
+    "secondary_ability": "Shields Down",
+    "hidden_ability": null
+  },
+  "Komala": {
+    "primary_ability": "Comatose",
+    "secondary_ability": "Comatose",
+    "hidden_ability": null
+  },
+  "Turtonator": {
+    "primary_ability": "Shell Armor",
+    "secondary_ability": "Magma Armor",
+    "hidden_ability": "Valiant Shield"
+  },
+  "Togedemaru": {
+    "primary_ability": "Iron Barbs",
+    "secondary_ability": "Motor Drive",
+    "hidden_ability": "Sturdy"
+  },
+  "Mimikyu": {
+    "primary_ability": "Disguise",
+    "secondary_ability": "Disguise",
+    "hidden_ability": null
+  },
+  "Mimikyu-Busted": {
+    "primary_ability": "Disguise",
+    "secondary_ability": "Disguise",
+    "hidden_ability": null
+  },
+  "Bruxish": {
+    "primary_ability": "Dazzling",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Wonder Skin"
+  },
+  "Drampa": {
+    "primary_ability": "Berserk",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Fatal Precision"
+  },
+  "Dhelmise": {
+    "primary_ability": "Steely Spirit",
+    "secondary_ability": "Steely Spirit",
+    "hidden_ability": null
+  },
+  "Dhelmise-Sevii": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Gooey",
+    "hidden_ability": "Tinted Lens"
+  },
+  "Jangmo-o": {
+    "primary_ability": "Bulletproof",
+    "secondary_ability": "Soundproof",
+    "hidden_ability": "Overcoat"
+  },
+  "Hakamo-o": {
+    "primary_ability": "Bulletproof",
+    "secondary_ability": "Soundproof",
+    "hidden_ability": "Overcoat"
+  },
+  "Kommo-o": {
+    "primary_ability": "Bulletproof",
+    "secondary_ability": "Soundproof",
+    "hidden_ability": "Overcoat"
+  },
+  "Tapu Koko": {
+    "primary_ability": "Electric Surge",
+    "secondary_ability": "Electric Surge",
+    "hidden_ability": "Telepathy"
+  },
+  "Tapu Lele": {
+    "primary_ability": "Psychic Surge",
+    "secondary_ability": "Psychic Surge",
+    "hidden_ability": "Telepathy"
+  },
+  "Tapu Bulu": {
+    "primary_ability": "Grassy Surge",
+    "secondary_ability": "Grassy Surge",
+    "hidden_ability": "Telepathy"
+  },
+  "Tapu Fini": {
+    "primary_ability": "Misty Surge",
+    "secondary_ability": "Misty Surge",
+    "hidden_ability": "Telepathy"
+  },
+  "Cosmog": {
+    "primary_ability": "Unaware",
+    "secondary_ability": "Unaware",
+    "hidden_ability": null
+  },
+  "Cosmoem": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": null
+  },
+  "Solgaleo": {
+    "primary_ability": "Full Metal Body",
+    "secondary_ability": "Full Metal Body",
+    "hidden_ability": null
+  },
+  "Lunala": {
+    "primary_ability": "Shadow Shield",
+    "secondary_ability": "Shadow Shield",
+    "hidden_ability": null
+  },
+  "Nihilego": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Buzzwole": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Pheromosa": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Xurkitree": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Celesteela": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Kartana": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Guzzlord": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Dark Aura",
+    "hidden_ability": null
+  },
+  "Necrozma": {
+    "primary_ability": "Prism Armor",
+    "secondary_ability": "Prism Armor",
+    "hidden_ability": null
+  },
+  "Necrozma-Dusk-Mane": {
+    "primary_ability": "Prism Armor",
+    "secondary_ability": "Prism Armor",
+    "hidden_ability": null
+  },
+  "Necrozma-Dawn-Wings": {
+    "primary_ability": "Prism Armor",
+    "secondary_ability": "Prism Armor",
+    "hidden_ability": null
+  },
+  "Necrozma-Ultra": {
+    "primary_ability": "Neuroforce",
+    "secondary_ability": "Neuroforce",
+    "hidden_ability": null
+  },
+  "Magearna": {
+    "primary_ability": "Soul-Heart",
+    "secondary_ability": "Soul-Heart",
+    "hidden_ability": null
+  },
+  "Marshadow": {
+    "primary_ability": "Technician",
+    "secondary_ability": "Technician",
+    "hidden_ability": null
+  },
+  "Poipole": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Naganadel": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Stakataka": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Blacephalon": {
+    "primary_ability": "Beast Boost",
+    "secondary_ability": "Beast Boost",
+    "hidden_ability": null
+  },
+  "Zeraora": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Volt Absorb",
+    "hidden_ability": null
+  },
+  "Meltan": {
+    "primary_ability": "Magnet Pull",
+    "secondary_ability": "Magnet Pull",
+    "hidden_ability": null
+  },
+  "Melmetal": {
+    "primary_ability": "Iron Fist",
+    "secondary_ability": "Iron Fist",
+    "hidden_ability": null
+  },
+  "Grookey": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Grassy Surge"
+  },
+  "Thwackey": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Grassy Surge"
+  },
+  "Rillaboom": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Grassy Surge"
+  },
+  "Scorbunny": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Libero"
+  },
+  "Raboot": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Libero"
+  },
+  "Cinderace": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Libero"
+  },
+  "Sobble": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Sniper"
+  },
+  "Drizzile": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Sniper"
+  },
+  "Inteleon": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Sniper"
+  },
+  "Skwovet": {
+    "primary_ability": "Cheek Pouch",
+    "secondary_ability": "Cheek Pouch",
+    "hidden_ability": "Gluttony"
+  },
+  "Greedent": {
+    "primary_ability": "Cheek Pouch",
+    "secondary_ability": "Cheek Pouch",
+    "hidden_ability": "Gluttony"
+  },
+  "Rookidee": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Unnerve",
+    "hidden_ability": null
+  },
+  "Corvisquire": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Unnerve",
+    "hidden_ability": null
+  },
+  "Corviknight": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Unnerve",
+    "hidden_ability": null
+  },
+  "Blipbug": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Telepathy"
+  },
+  "Dottler": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": "Telepathy"
+  },
+  "Orbeetle": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Telepathy"
+  },
+  "Orbeetle-Mega": {
+    "primary_ability": "Magic Guard",
+    "secondary_ability": "Magic Guard",
+    "hidden_ability": null
+  },
+  "Nickit": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Stakeout"
+  },
+  "Thievul": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Stakeout"
+  },
+  "Gossifleur": {
+    "primary_ability": "Cotton Down",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": "Effect Spore"
+  },
+  "Eldegoss": {
+    "primary_ability": "Cotton Down",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": "Effect Spore"
+  },
+  "Wooloo": {
+    "primary_ability": "Fluffy",
+    "secondary_ability": "Run Away",
+    "hidden_ability": "Bulletproof"
+  },
+  "Dubwool": {
+    "primary_ability": "Fluffy",
+    "secondary_ability": "Steadfast",
+    "hidden_ability": "Bulletproof"
+  },
+  "Chewtle": {
+    "primary_ability": "Strong Jaw",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Swift Swim"
+  },
+  "Drednaw": {
+    "primary_ability": "Strong Jaw",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Swift Swim"
+  },
+  "Drednaw-Mega": {
+    "primary_ability": "Strong Jaw",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": null
+  },
+  "Yamper": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Competitive"
+  },
+  "Boltund": {
+    "primary_ability": "Strong Jaw",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Competitive"
+  },
+  "Rolycoly": {
+    "primary_ability": "Steam Engine",
+    "secondary_ability": "Heatproof",
+    "hidden_ability": "Flash Fire"
+  },
+  "Carkol": {
+    "primary_ability": "Steam Engine",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Flash Fire"
+  },
+  "Coalossal": {
+    "primary_ability": "Steam Engine",
+    "secondary_ability": "Flame Body",
+    "hidden_ability": "Flash Fire"
+  },
+  "Coalossal-Mega": {
+    "primary_ability": "Mountaineer",
+    "secondary_ability": "Mountaineer",
+    "hidden_ability": null
+  },
+  "Applin": {
+    "primary_ability": "Ripen",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Bulletproof"
+  },
+  "Flapple": {
+    "primary_ability": "Ripen",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Hustle"
+  },
+  "Flapple-Mega": {
+    "primary_ability": "Dragon's Maw",
+    "secondary_ability": "Dragon's Maw",
+    "hidden_ability": null
+  },
+  "Appletun": {
+    "primary_ability": "Ripen",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Thick Fat"
+  },
+  "Appletun-Mega": {
+    "primary_ability": "Contrary",
+    "secondary_ability": "Contrary",
+    "hidden_ability": null
+  },
+  "Silicobra": {
+    "primary_ability": "Sand Spit",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Sand Veil"
+  },
+  "Sandaconda": {
+    "primary_ability": "Sand Spit",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Sand Veil"
+  },
+  "Sandaconda-Mega": {
+    "primary_ability": "Aerilate",
+    "secondary_ability": "Aerilate",
+    "hidden_ability": null
+  },
+  "Cramorant": {
+    "primary_ability": "Gulp Missile",
+    "secondary_ability": "Gulp Missile",
+    "hidden_ability": null
+  },
+  "Cramorant-Gulping": {
+    "primary_ability": "Gulp Missile",
+    "secondary_ability": "Gulp Missile",
+    "hidden_ability": null
+  },
+  "Cramorant-Gorging": {
+    "primary_ability": "Gulp Missile",
+    "secondary_ability": "Gulp Missile",
+    "hidden_ability": null
+  },
+  "Arrokuda": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": null
+  },
+  "Barraskewda": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": "Propeller Tail"
+  },
+  "Toxel": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Static",
+    "hidden_ability": null
+  },
+  "Toxtricity": {
+    "primary_ability": "Punk Rock",
+    "secondary_ability": "Plus",
+    "hidden_ability": "Technician"
+  },
+  "Toxtricity-Low-Key": {
+    "primary_ability": "Punk Rock",
+    "secondary_ability": "Minus",
+    "hidden_ability": "Technician"
+  },
+  "Toxtricity-Mega": {
+    "primary_ability": "Punk Rock",
+    "secondary_ability": "Punk Rock",
+    "hidden_ability": null
+  },
+  "Sizzlipede": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "White Smoke",
+    "hidden_ability": "Flame Body"
+  },
+  "Sizzlipede-Sevii": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "White Smoke",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Centiskorch": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "White Smoke",
+    "hidden_ability": "Flame Body"
+  },
+  "Centiskorch-Mega": {
+    "primary_ability": "Mountaineer",
+    "secondary_ability": "Mountaineer",
+    "hidden_ability": null
+  },
+  "Centiskorch-Sevii": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "White Smoke",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Centiskorch-Sevii-Mega": {
+    "primary_ability": "Arena Trap",
+    "secondary_ability": "Sand Force",
+    "hidden_ability": null
+  },
+  "Clobbopus": {
+    "primary_ability": "Limber",
+    "secondary_ability": "Limber",
+    "hidden_ability": "Technician"
+  },
+  "Grapploct": {
+    "primary_ability": "Limber",
+    "secondary_ability": "Limber",
+    "hidden_ability": "Technician"
+  },
+  "Sinistea": {
+    "primary_ability": "Weak Armor",
+    "secondary_ability": "Weak Armor",
+    "hidden_ability": "Heatproof"
+  },
+  "Polteageist": {
+    "primary_ability": "Weak Armor",
+    "secondary_ability": "Weak Armor",
+    "hidden_ability": "Heatproof"
+  },
+  "Hatenna": {
+    "primary_ability": "Magic Bounce",
+    "secondary_ability": "Magic Bounce",
+    "hidden_ability": null
+  },
+  "Hattrem": {
+    "primary_ability": "Magic Bounce",
+    "secondary_ability": "Magic Bounce",
+    "hidden_ability": null
+  },
+  "Hatterene": {
+    "primary_ability": "Magic Bounce",
+    "secondary_ability": "Magic Bounce",
+    "hidden_ability": null
+  },
+  "Impidimp": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Infiltrator"
+  },
+  "Morgrem": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Infiltrator"
+  },
+  "Grimmsnarl": {
+    "primary_ability": "Prankster",
+    "secondary_ability": "Frisk",
+    "hidden_ability": "Infiltrator"
+  },
+  "Obstagoon": {
+    "primary_ability": "Reckless",
+    "secondary_ability": "Guts",
+    "hidden_ability": "Defiant"
+  },
+  "Perrserker": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Tough Claws",
+    "hidden_ability": "Steely Spirit"
+  },
+  "Cursola": {
+    "primary_ability": "Weak Armor",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Perish Body"
+  },
+  "Sirfetch\u2019d": {
+    "primary_ability": "Sharpness",
+    "secondary_ability": "Sharpness",
+    "hidden_ability": "Scrappy"
+  },
+  "Mr. Rime": {
+    "primary_ability": "Screen Cleaner",
+    "secondary_ability": "Screen Cleaner",
+    "hidden_ability": "Ice Body"
+  },
+  "Runerigus": {
+    "primary_ability": "Wandering Soul",
+    "secondary_ability": "Wandering Soul",
+    "hidden_ability": "Shadow Shield"
+  },
+  "Milcery": {
+    "primary_ability": "Sweet Veil",
+    "secondary_ability": "Sweet Veil",
+    "hidden_ability": "Aroma Veil"
+  },
+  "Alcremie": {
+    "primary_ability": "Sweet Veil",
+    "secondary_ability": "Sweet Veil",
+    "hidden_ability": "Aroma Veil"
+  },
+  "Alcremie-Mega": {
+    "primary_ability": "Self Sufficient",
+    "secondary_ability": "Self Sufficient",
+    "hidden_ability": null
+  },
+  "Falinks": {
+    "primary_ability": "Battle Armor",
+    "secondary_ability": "Battle Armor",
+    "hidden_ability": "Defiant"
+  },
+  "Pincurchin": {
+    "primary_ability": "Lightning Rod",
+    "secondary_ability": "Lightning Rod",
+    "hidden_ability": "Electric Surge"
+  },
+  "Snom": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Shield Dust",
+    "hidden_ability": "Ice Scales"
+  },
+  "Frosmoth": {
+    "primary_ability": "Shield Dust",
+    "secondary_ability": "Shield Dust",
+    "hidden_ability": "Ice Scales"
+  },
+  "Stonjourner": {
+    "primary_ability": "Rocky Payload",
+    "secondary_ability": "Rocky Payload",
+    "hidden_ability": null
+  },
+  "Eiscue": {
+    "primary_ability": "Ice Face",
+    "secondary_ability": "Ice Face",
+    "hidden_ability": null
+  },
+  "Eiscue-Noice": {
+    "primary_ability": "Ice Face",
+    "secondary_ability": "Ice Face",
+    "hidden_ability": null
+  },
+  "Indeedee": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": "Psychic Surge"
+  },
+  "Indeedee-F": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Synchronize",
+    "hidden_ability": "Psychic Surge"
+  },
+  "Morpeko": {
+    "primary_ability": "Hunger Switch",
+    "secondary_ability": "Hunger Switch",
+    "hidden_ability": null
+  },
+  "Morpeko-Hangry": {
+    "primary_ability": "Hunger Switch",
+    "secondary_ability": "Hunger Switch",
+    "hidden_ability": null
+  },
+  "Cufant": {
+    "primary_ability": "Heavy Metal",
+    "secondary_ability": "Heavy Metal",
+    "hidden_ability": null
+  },
+  "Copperajah": {
+    "primary_ability": "Heavy Metal",
+    "secondary_ability": "Heavy Metal",
+    "hidden_ability": null
+  },
+  "Copperajah-Mega": {
+    "primary_ability": "Sheer Force",
+    "secondary_ability": "Sheer Force",
+    "hidden_ability": null
+  },
+  "Dracozolt": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Sand Rush"
+  },
+  "Arctozolt": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Static",
+    "hidden_ability": "Slush Rush"
+  },
+  "Dracovish": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Strong Jaw",
+    "hidden_ability": "Sand Rush"
+  },
+  "Arctovish": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Ice Body",
+    "hidden_ability": "Slush Rush"
+  },
+  "Duraludon": {
+    "primary_ability": "Heavy Metal",
+    "secondary_ability": "Heavy Metal",
+    "hidden_ability": "Stalwart"
+  },
+  "Dreepy": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Run Away"
+  },
+  "Drakloak": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Stalwart"
+  },
+  "Dragapult": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Stalwart"
+  },
+  "Zacian": {
+    "primary_ability": "Intrepid Sword",
+    "secondary_ability": "Intrepid Sword",
+    "hidden_ability": null
+  },
+  "Zacian-Crowned": {
+    "primary_ability": "Intrepid Sword",
+    "secondary_ability": "Intrepid Sword",
+    "hidden_ability": null
+  },
+  "Zamazenta": {
+    "primary_ability": "Valiant Shield",
+    "secondary_ability": "Valiant Shield",
+    "hidden_ability": null
+  },
+  "Zamazenta-Crowned": {
+    "primary_ability": "Valiant Shield",
+    "secondary_ability": "Valiant Shield",
+    "hidden_ability": null
+  },
+  "Eternatus": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Pressure",
+    "hidden_ability": null
+  },
+  "Eternatus-Eternamax": {
+    "primary_ability": "Levitate",
+    "secondary_ability": "Levitate",
+    "hidden_ability": null
+  },
+  "Kubfu": {
+    "primary_ability": "Inner Focus",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": null
+  },
+  "Urshifu": {
+    "primary_ability": "Unseen Fist",
+    "secondary_ability": "Unseen Fist",
+    "hidden_ability": null
+  },
+  "Urshifu-Rapid-Strike": {
+    "primary_ability": "Unseen Fist",
+    "secondary_ability": "Unseen Fist",
+    "hidden_ability": null
+  },
+  "Zarude": {
+    "primary_ability": "Leaf Guard",
+    "secondary_ability": "Defiant",
+    "hidden_ability": null
+  },
+  "Regieleki": {
+    "primary_ability": "Transistor",
+    "secondary_ability": "Transistor",
+    "hidden_ability": null
+  },
+  "Regidrago": {
+    "primary_ability": "Dragon's Maw",
+    "secondary_ability": "Dragon's Maw",
+    "hidden_ability": null
+  },
+  "Glastrier": {
+    "primary_ability": "Chilling Neigh",
+    "secondary_ability": "Chilling Neigh",
+    "hidden_ability": null
+  },
+  "Spectrier": {
+    "primary_ability": "Grim Neigh",
+    "secondary_ability": "Grim Neigh",
+    "hidden_ability": null
+  },
+  "Calyrex": {
+    "primary_ability": "Unnerve",
+    "secondary_ability": "Unnerve",
+    "hidden_ability": null
+  },
+  "Calyrex-Ice": {
+    "primary_ability": "As One",
+    "secondary_ability": "As One",
+    "hidden_ability": null
+  },
+  "Calyrex-Shadow": {
+    "primary_ability": "As One",
+    "secondary_ability": "As One",
+    "hidden_ability": null
+  },
+  "Wyrdeer": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Sap Sipper",
+    "hidden_ability": "Fur Coat"
+  },
+  "Kleavor": {
+    "primary_ability": "Sheer Force",
+    "secondary_ability": "Technician",
+    "hidden_ability": "Sharpness"
+  },
+  "Ursaluna": {
+    "primary_ability": "Guts",
+    "secondary_ability": "Bulletproof",
+    "hidden_ability": "Unnerve"
+  },
+  "Ursaluna-Bloodmoon": {
+    "primary_ability": "Scrappy",
+    "secondary_ability": "Scrappy",
+    "hidden_ability": null
+  },
+  "Basculegion": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Adaptability",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Basculegion-F": {
+    "primary_ability": "Swift Swim",
+    "secondary_ability": "Adaptability",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Sneasler": {
+    "primary_ability": "Pressure",
+    "secondary_ability": "Unburden",
+    "hidden_ability": "Poison Touch"
+  },
+  "Overqwil": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Swift Swim",
+    "hidden_ability": "Intimidate"
+  },
+  "Enamorus": {
+    "primary_ability": "Cute Charm",
+    "secondary_ability": "Cute Charm",
+    "hidden_ability": "Contrary"
+  },
+  "Enamorus-Therian": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": null
+  },
+  "Sprigatito": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Protean"
+  },
+  "Floragato": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Protean"
+  },
+  "Meowscarada": {
+    "primary_ability": "Overgrow",
+    "secondary_ability": "Overgrow",
+    "hidden_ability": "Protean"
+  },
+  "Fuecoco": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Unaware"
+  },
+  "Crocalor": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Unaware"
+  },
+  "Skeledirge": {
+    "primary_ability": "Blaze",
+    "secondary_ability": "Blaze",
+    "hidden_ability": "Unaware"
+  },
+  "Quaxly": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Moxie"
+  },
+  "Quaxwell": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Moxie"
+  },
+  "Quaquaval": {
+    "primary_ability": "Torrent",
+    "secondary_ability": "Torrent",
+    "hidden_ability": "Moxie"
+  },
+  "Lechonk": {
+    "primary_ability": "Aroma Veil",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Thick Fat"
+  },
+  "Oinkologne": {
+    "primary_ability": "Lingering Aroma",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Thick Fat"
+  },
+  "Oinkologne-F": {
+    "primary_ability": "Aroma Veil",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": "Thick Fat"
+  },
+  "Tarountula": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Stakeout",
+    "hidden_ability": null
+  },
+  "Spidops": {
+    "primary_ability": "Insomnia",
+    "secondary_ability": "Stakeout",
+    "hidden_ability": null
+  },
+  "Nymble": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Tinted Lens",
+    "hidden_ability": null
+  },
+  "Nymble-Sevii": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Tinted Lens",
+    "hidden_ability": null
+  },
+  "Lokix": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Tinted Lens",
+    "hidden_ability": null
+  },
+  "Lokix-Sevii": {
+    "primary_ability": "Swarm",
+    "secondary_ability": "Tinted Lens",
+    "hidden_ability": null
+  },
+  "Pawmi": {
+    "primary_ability": "Static",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": "Iron Fist"
+  },
+  "Pawmo": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": "Iron Fist"
+  },
+  "Pawmot": {
+    "primary_ability": "Volt Absorb",
+    "secondary_ability": "Natural Cure",
+    "hidden_ability": "Iron Fist"
+  },
+  "Tandemaus": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Own Tempo"
+  },
+  "Maushold": {
+    "primary_ability": "Friend Guard",
+    "secondary_ability": "Cheek Pouch",
+    "hidden_ability": "Technician"
+  },
+  "Fidough": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": null
+  },
+  "Dachsbun": {
+    "primary_ability": "Well-Baked Body",
+    "secondary_ability": "Well-Baked Body",
+    "hidden_ability": "Aroma Veil"
+  },
+  "Smoliv": {
+    "primary_ability": "Early Bird",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Harvest"
+  },
+  "Dolliv": {
+    "primary_ability": "Early Bird",
+    "secondary_ability": "Early Bird",
+    "hidden_ability": "Harvest"
+  },
+  "Arboliva": {
+    "primary_ability": "Seed Sower",
+    "secondary_ability": "Seed Sower",
+    "hidden_ability": "Harvest"
+  },
+  "Squawkabilly": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Guts"
+  },
+  "Squawkabilly-White": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Hustle",
+    "hidden_ability": "Sheer Force"
+  },
+  "Nacli": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Purifying Salt",
+    "hidden_ability": "Clear Body"
+  },
+  "Naclstack": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Purifying Salt",
+    "hidden_ability": "Clear Body"
+  },
+  "Garganacl": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Purifying Salt",
+    "hidden_ability": "Clear Body"
+  },
+  "Charcadet": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Weak Armor",
+    "hidden_ability": "Flame Body"
+  },
+  "Armarouge": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Weak Armor",
+    "hidden_ability": "Mega Launcher"
+  },
+  "Ceruledge": {
+    "primary_ability": "Flash Fire",
+    "secondary_ability": "Weak Armor",
+    "hidden_ability": "Sharpness"
+  },
+  "Tadbulb": {
+    "primary_ability": "Own Tempo",
+    "secondary_ability": "Static",
+    "hidden_ability": "Damp"
+  },
+  "Bellibolt": {
+    "primary_ability": "Electromrphosis",
+    "secondary_ability": "Static",
+    "hidden_ability": "Damp"
+  },
+  "Wattrel": {
+    "primary_ability": "Static",
+    "secondary_ability": "Volt Absorb",
+    "hidden_ability": "Competitive"
+  },
+  "Kilowattrel": {
+    "primary_ability": "Static",
+    "secondary_ability": "Volt Absorb",
+    "hidden_ability": "Competitive"
+  },
+  "Maschiff": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Run Away",
+    "hidden_ability": "Stakeout"
+  },
+  "Mabosstiff": {
+    "primary_ability": "Intimidate",
+    "secondary_ability": "Defiant",
+    "hidden_ability": "Stakeout"
+  },
+  "Shroodle": {
+    "primary_ability": "Unburden",
+    "secondary_ability": "Poison Touch",
+    "hidden_ability": "Prankster"
+  },
+  "Grafaiai": {
+    "primary_ability": "Unburden",
+    "secondary_ability": "Poison Touch",
+    "hidden_ability": "Prankster"
+  },
+  "Bramblin": {
+    "primary_ability": "Infiltrator",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Wind Rider"
+  },
+  "Brambleghast": {
+    "primary_ability": "Infiltrator",
+    "secondary_ability": "Infiltrator",
+    "hidden_ability": "Wind Rider"
+  },
+  "Toedscool": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": null
+  },
+  "Toedscruel": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": null
+  },
+  "Klawf": {
+    "primary_ability": "Anger Shell",
+    "secondary_ability": "Shell Armor",
+    "hidden_ability": "Regenerator"
+  },
+  "Capsakid": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Insomnia",
+    "hidden_ability": null
+  },
+  "Scovillain": {
+    "primary_ability": "Chlorophyll",
+    "secondary_ability": "Insomnia",
+    "hidden_ability": null
+  },
+  "Rellor": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Compound Eyes",
+    "hidden_ability": null
+  },
+  "Rabsca": {
+    "primary_ability": "Synchronize",
+    "secondary_ability": "Telepathy",
+    "hidden_ability": null
+  },
+  "Flittle": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Speed Boost",
+    "hidden_ability": null
+  },
+  "Espathra": {
+    "primary_ability": "Frisk",
+    "secondary_ability": "Speed Boost",
+    "hidden_ability": null
+  },
+  "Tinkatink": {
+    "primary_ability": "Mold Breaker",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": null
+  },
+  "Tinkatuff": {
+    "primary_ability": "Mold Breaker",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": null
+  },
+  "Tinkaton": {
+    "primary_ability": "Mold Breaker",
+    "secondary_ability": "Own Tempo",
+    "hidden_ability": null
+  },
+  "Wiglett": {
+    "primary_ability": "Gooey",
+    "secondary_ability": "Arena Trap",
+    "hidden_ability": "Sand Veil"
+  },
+  "Wugtrio": {
+    "primary_ability": "Gooey",
+    "secondary_ability": "Arena Trap",
+    "hidden_ability": "Sand Veil"
+  },
+  "Bombirdier": {
+    "primary_ability": "Rocky Payload",
+    "secondary_ability": "Rocky Payload",
+    "hidden_ability": null
+  },
+  "Finizen": {
+    "primary_ability": "Water Veil",
+    "secondary_ability": "Water Veil",
+    "hidden_ability": null
+  },
+  "Palafin": {
+    "primary_ability": "Zero To Hero",
+    "secondary_ability": "Zero To Hero",
+    "hidden_ability": null
+  },
+  "Palafin-Hero": {
+    "primary_ability": "Zero To Hero",
+    "secondary_ability": "Zero To Hero",
+    "hidden_ability": "Mold Breaker"
+  },
+  "Varoom": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": "Filter"
+  },
+  "Revavroom": {
+    "primary_ability": "Overcoat",
+    "secondary_ability": "Overcoat",
+    "hidden_ability": "Filter"
+  },
+  "Cyclizar": {
+    "primary_ability": "Shed Skin",
+    "secondary_ability": "Shed Skin",
+    "hidden_ability": "Regenerator"
+  },
+  "Orthworm": {
+    "primary_ability": "Earth Eater",
+    "secondary_ability": "Earth Eater",
+    "hidden_ability": "Sand Veil"
+  },
+  "Glimmet": {
+    "primary_ability": "Toxic Debris",
+    "secondary_ability": "Toxic Debris",
+    "hidden_ability": "Corrosion"
+  },
+  "Glimmora": {
+    "primary_ability": "Toxic Debris",
+    "secondary_ability": "Toxic Debris",
+    "hidden_ability": "Corrosion"
+  },
+  "Greavard": {
+    "primary_ability": "Pickup",
+    "secondary_ability": "Pickup",
+    "hidden_ability": "Fluffy"
+  },
+  "Houndstone": {
+    "primary_ability": "Sand Rush",
+    "secondary_ability": "Sand Rush",
+    "hidden_ability": "Fluffy"
+  },
+  "Flamigo": {
+    "primary_ability": "Scrappy",
+    "secondary_ability": "Scrappy",
+    "hidden_ability": null
+  },
+  "Cetoddle": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Sheer Force"
+  },
+  "Cetitan": {
+    "primary_ability": "Thick Fat",
+    "secondary_ability": "Slush Rush",
+    "hidden_ability": "Sheer Force"
+  },
+  "Veluza": {
+    "primary_ability": "Mold Breaker",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": "Sharpness"
+  },
+  "Dondozo": {
+    "primary_ability": "Unaware",
+    "secondary_ability": "Oblivious",
+    "hidden_ability": "Water Veil"
+  },
+  "Tatsugiri": {
+    "primary_ability": "Storm Drain",
+    "secondary_ability": "Storm Drain",
+    "hidden_ability": null
+  },
+  "Annihilape": {
+    "primary_ability": "Vital Spirit",
+    "secondary_ability": "Inner Focus",
+    "hidden_ability": "Defiant"
+  },
+  "Clodsire": {
+    "primary_ability": "Poison Touch",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": "Unaware"
+  },
+  "Farigiraf": {
+    "primary_ability": "Sap Sipper",
+    "secondary_ability": "Armor Tail",
+    "hidden_ability": "Parental Bond"
+  },
+  "Dudunsparce": {
+    "primary_ability": "Serene Grace",
+    "secondary_ability": "Run Away",
+    "hidden_ability": null
+  },
+  "Kingambit": {
+    "primary_ability": "Defiant",
+    "secondary_ability": "SupremeOverlord",
+    "hidden_ability": "Pressure"
+  },
+  "Great Tusk": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": null
+  },
+  "Scream Tail": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": "Tangling Hair"
+  },
+  "Brute Bonnet": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": "Poison Heal"
+  },
+  "Flutter Mane": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": null
+  },
+  "Slither Wing": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": "Multiscale"
+  },
+  "Sandy Shocks": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": "WaterCompaction"
+  },
+  "Iron Treads": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": null
+  },
+  "Iron Bundle": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": null
+  },
+  "Iron Hands": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": null
+  },
+  "Iron Jugulis": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": null
+  },
+  "Iron Moth": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": null
+  },
+  "Iron Thorns": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": "Solid Rock"
+  },
+  "Frigibax": {
+    "primary_ability": "ThermalExchange",
+    "secondary_ability": "ThermalExchange",
+    "hidden_ability": "Ice Body"
+  },
+  "Arctibax": {
+    "primary_ability": "ThermalExchange",
+    "secondary_ability": "ThermalExchange",
+    "hidden_ability": "Ice Body"
+  },
+  "Baxcalibur": {
+    "primary_ability": "ThermalExchange",
+    "secondary_ability": "ThermalExchange",
+    "hidden_ability": "Ice Body"
+  },
+  "Gimmighoul": {
+    "primary_ability": "Clear Body",
+    "secondary_ability": "Clear Body",
+    "hidden_ability": null
+  },
+  "Gimmighoul-Roaming": {
+    "primary_ability": "Run Away",
+    "secondary_ability": "Run Away",
+    "hidden_ability": null
+  },
+  "Gholdengo": {
+    "primary_ability": "Good as Gold",
+    "secondary_ability": "Good as Gold",
+    "hidden_ability": null
+  },
+  "Wo-Chien": {
+    "primary_ability": "Tablets of Ruin",
+    "secondary_ability": "Tablets of Ruin",
+    "hidden_ability": null
+  },
+  "Chien-Pao": {
+    "primary_ability": "Sword Of Ruin",
+    "secondary_ability": "Sword Of Ruin",
+    "hidden_ability": null
+  },
+  "Ting-Lu": {
+    "primary_ability": "Vessel Of Ruin",
+    "secondary_ability": "Vessel Of Ruin",
+    "hidden_ability": null
+  },
+  "Chi-Yu": {
+    "primary_ability": "Beads of Ruin",
+    "secondary_ability": "Beads of Ruin",
+    "hidden_ability": null
+  },
+  "Roaring Moon": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": null
+  },
+  "Iron Valiant": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": null
+  },
+  "Koraidon": {
+    "primary_ability": "OrichalcumPulse",
+    "secondary_ability": "OrichalcumPulse",
+    "hidden_ability": null
+  },
+  "Miraidon": {
+    "primary_ability": "Hadron Engine",
+    "secondary_ability": "Hadron Engine",
+    "hidden_ability": null
+  },
+  "Walking Wake": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": null
+  },
+  "Iron Leaves": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": "Sharpness"
+  },
+  "Dipplin": {
+    "primary_ability": "Sticky Hold",
+    "secondary_ability": "Gluttony",
+    "hidden_ability": null
+  },
+  "Poltchageist": {
+    "primary_ability": "Heatproof",
+    "secondary_ability": "Heatproof",
+    "hidden_ability": null
+  },
+  "Sinistcha": {
+    "primary_ability": "Heatproof",
+    "secondary_ability": "Heatproof",
+    "hidden_ability": null
+  },
+  "Okidogi": {
+    "primary_ability": "Toxic Chain",
+    "secondary_ability": "Toxic Chain",
+    "hidden_ability": "Defiant"
+  },
+  "Munkidori": {
+    "primary_ability": "Toxic Chain",
+    "secondary_ability": "Toxic Chain",
+    "hidden_ability": "Frisk"
+  },
+  "Fezandipiti": {
+    "primary_ability": "Toxic Chain",
+    "secondary_ability": "Toxic Chain",
+    "hidden_ability": "Technician"
+  },
+  "Ogerpon": {
+    "primary_ability": "Defiant",
+    "secondary_ability": "Defiant",
+    "hidden_ability": null
+  },
+  "Ogerpon-Wellspring": {
+    "primary_ability": "Water Absorb",
+    "secondary_ability": "Water Absorb",
+    "hidden_ability": null
+  },
+  "Ogerpon-Hearthflame": {
+    "primary_ability": "Mold Breaker",
+    "secondary_ability": "Mold Breaker",
+    "hidden_ability": null
+  },
+  "Ogerpon-Cornerstone": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Sturdy",
+    "hidden_ability": null
+  },
+  "Archaludon": {
+    "primary_ability": "Sturdy",
+    "secondary_ability": "Stamina",
+    "hidden_ability": "Bad Company"
+  },
+  "Hydrapple": {
+    "primary_ability": "Sticky Hold",
+    "secondary_ability": "Regenerator",
+    "hidden_ability": null
+  },
+  "Gouging Fire": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": null
+  },
+  "Raging Bolt": {
+    "primary_ability": "Protosynthesis",
+    "secondary_ability": "Protosynthesis",
+    "hidden_ability": null
+  },
+  "Iron Boulder": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": null
+  },
+  "Iron Crown": {
+    "primary_ability": "Quark Drive",
+    "secondary_ability": "Quark Drive",
+    "hidden_ability": "Sharpness"
+  },
+  "Terapagos-Terastal": {
+    "primary_ability": "Tera Shell",
+    "secondary_ability": "Tera Shell",
+    "hidden_ability": null
+  },
+  "Pecharunt": {
+    "primary_ability": "Toxic Chain",
+    "secondary_ability": "Toxic Chain",
+    "hidden_ability": null
+  },
+  "Chillet": {
+    "primary_ability": "Refrigerate",
+    "secondary_ability": "Refrigerate",
+    "hidden_ability": null
+  }
+}
