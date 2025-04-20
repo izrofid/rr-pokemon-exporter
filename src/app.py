@@ -9,7 +9,7 @@ from save_file import SaveFile
 from pokemon_extractor import PartyPokemonExtractor, BoxPokemonExtractor
 from pokemon_parser import PartyPokemonParser, BoxPokemonParser
 
-from markdowns import SIDEBAR, WHERE_SAVE, LINKS
+from markdowns import SIDEBAR, WHERE_SAVE, LINKS, FAQ
 
 
 st.set_page_config(
@@ -58,6 +58,9 @@ def main():
     uploaded_file = st.file_uploader(
         "Upload your save file", SAVE_TYPES, help=None, label_visibility="collapsed"
     )
+
+    with st.expander("FAQ", expanded=False):
+        st.markdown(FAQ)
 
     if not uploaded_file:
         with st.expander("Where is my save file?", expanded=False):

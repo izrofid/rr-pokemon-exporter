@@ -76,3 +76,51 @@ Internal Storage > MyBoy > save
 Emulators that use the **128K Flash + RTC** save format are fully supported.
 You can drop in `.sav`, `sa2`, `sa3`, `sa4`, etc. directly — *no conversion needed*.
 """
+
+FAQ = """
+
+### FAQ
+
+#### What is this tool?
+
+This tool reads your Radical Red v4.1 save file and exports your party Pokémon in a format you can copy-paste into Pokémon Showdown’s Team Builder or the Radical Red calculators.
+
+---
+
+#### What kind of file should I upload?
+You should upload your **in-game save file**, which ends in `.sav` or `.saveRAM`. This is created when you save the game using the **Start > Save** option from the main menu inside the game. mGBA's player specific save extensions (`.sa2` for player 2 saves) are fine. 
+
+---
+
+#### Can I use a save state?
+**No.** Save states (like `.sgm`, `.state`,  etc.) are not supported. These are emulator-specific and do not contain your actual game data in a usable format.  
+Always use your proper `.sav` file created through in-game saving.
+
+---
+
+#### What version of Radical Red is this for?
+This tool is designed specifically for **Radical Red v4.1**. It may not work correctly with earlier versions due to changes in how save data is stored.
+
+---
+
+#### Why does it throw an error?
+- You might’ve uploaded the wrong file (like a save state).
+- You may not have any Pokémon in your party yet.
+---
+
+
+
+#### Is this safe to use?
+Yes. Your save file is not edited in anyway. This simply reads the `.sav` and extracts information from it.
+
+---
+
+#### How do I use the exported data?
+Once your Pokémon are listed, just copy the text and paste it directly into a calculator or the Showdown Teambuilder. It will include details like nickname, nature, ability, level, and moves.
+
+---
+
+#### I'm on iOS and I can't upload my save file. Why?
+This is a known issue. Unfortunately I don't use an iOS device so it's difficult to figure out what's wrong. You can copy the file to another device and upload it from there. This will be fixed as soon as I can figure it out.
+
+"""
