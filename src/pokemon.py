@@ -45,4 +45,5 @@ class Pokemon:
     ability_index: int
     move_ids: list[int]
     nature: str
+    sprite_url: str
     raw_data: bytes = b""

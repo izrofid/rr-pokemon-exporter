@@ -69,5 +69,22 @@ def test_box():
         print(formatter.format(mon))
 
 
+def test_image():
+    with open(paths.sav.hijak, "rb") as f:
+        raw = f.read()
+
+    save = SaveFile(raw)
+
+    partyextractor = PartyPokemonExtractor(save.active_block)
+    party_parser = PartyPokemonParser()
+
+    party = [party_parser.parse(p) for p in partyextractor.pokemon_in_party]
+
+    formatter = ShowdownFormatter(GameDataManager())
+
+    img = formatter.format_image(party)
+    img.save('output.png')
+
+
 if __name__ == "__main__":
-    test_box()
+    test_image()

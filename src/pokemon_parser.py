@@ -61,6 +61,7 @@ class PartyPokemonParser(PokemonParser):
         move_ids = extract_moves(move_bytes)
         nature = calculate_nature(personal_id)
         raw_data = raw
+        sprite_url = f"https://raw.githubusercontent.com/izrofid/rrsprites/refs/heads/master/front/{species_id}.png"
 
         return Pokemon(
             species_id=species_id,
@@ -75,6 +76,7 @@ class PartyPokemonParser(PokemonParser):
             move_ids=move_ids,
             nature=nature,
             raw_data=raw_data,
+            sprite_url=sprite_url,
         )
 
 
@@ -120,6 +122,7 @@ class BoxPokemonParser(PokemonParser):
         move_ids = unpack_moves(move_bytes)
         nature = calculate_nature(personal_id)
         raw_data = raw
+        sprite_url = f"https://raw.githubusercontent.com/izrofid/rrsprites/refs/heads/master/front/{species_id}.png"
 
         return Pokemon(
             species_id=species_id,
@@ -134,4 +137,5 @@ class BoxPokemonParser(PokemonParser):
             move_ids=move_ids,
             nature=nature,
             raw_data=raw_data,
+            sprite_url=sprite_url,
         )

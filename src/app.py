@@ -18,7 +18,6 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-
 SAVE_TYPES = ["sav", "sa1", "sa2", "sa3", "sa4", "saveram"]
 
 
@@ -31,7 +30,10 @@ def main():
         """
     )
 
-    col1, col2 = st.columns(2)
+    (
+        col1,
+        col2,
+    ) = st.columns(2)
     with col1:
 
         export_choice = st.radio(
@@ -100,24 +102,50 @@ def main():
                 party_mons = [formatter.format(mon) for mon in party]
                 box_mons = [formatter.format(mon) for mon in box]
 
+                image_bytes = formatter.get_image_bytes(party)
+
                 if export_choice == "All" or export_choice == "Party":
                     export_text += "\n".join(party_mons) + "\n\n"
                 if export_choice == "All" or export_choice == "Box":
                     export_text += "\n".join(box_mons) + "\n\n"
 
                 with st.expander(
-                    f"📋{export_choice} Pokémon in Showdown Format",
+                    f"{export_choice} Pokémon in Showdown Format",
                     expanded=True,
                 ):
 
-                    st.download_button(
-                        label="Download as Text File",
-                        data=export_text.strip(),
-                        file_name="pokemon_showdown_export.txt",
-                        mime="text/plain",
-                    )
+                    if export_choice != "Box":
+                        tab1, tab2 = st.tabs(["Text", "Image"])
+                        with tab1:
+                            st.download_button(
+                                label="Download as Text File",
+                                data=export_text.strip(),
+                                file_name="pokemon_showdown_export.txt",
+                                mime="text/plain",
+                            )
+                            st.code(export_text.strip(), language="")
 
-                    st.code(export_text.strip(), language="")
+                        with tab2:
+                            st.download_button(
+                                label="Download Image",
+                                data=image_bytes,
+                                file_name="pokemon_team_image.png",
+                                mime="image/png",
+                            )
+                            st.image(
+                                image_bytes,
+                                caption="Your Team",
+                                use_container_width=True,
+                            )
+
+                    else:
+                        st.download_button(
+                            label="Download as Text File",
+                            data=export_text.strip(),
+                            file_name="pokemon_showdown_export.txt",
+                            mime="text/plain",
+                        )
+                        st.code(export_text.strip(), language="")
 
         except Exception as e:
             st.exception(e)
