@@ -88,12 +88,11 @@ This tool reads your Radical Red v4.1 save file and exports your party Pokémon 
 ---
 
 #### What kind of file should I upload?
-You should upload your **in-game save file**, which ends in `.sav` or `.saveRAM`. This is created when you save the game using the **Start > Save** option from the main menu inside the game. mGBA's player specific save extensions (`.sa2` for player 2 saves) are fine. 
-
+You should upload your **in-game save file**, which ends in `.sav` or `.saveRAM`. This is created when you save the game using the **Start > Save** option from the main menu inside the game. mGBA's player specific save extensions (`.sa2` for player 2 saves) are fine
 ---
 
 #### Can I use a save state?
-**No.** Save states (like `.sgm`, `.state`,  etc.) are not supported. These are emulator-specific and do not contain your actual game data in a usable format.  
+**No.** Save states (like `.sgm`, `.state`,  etc.) are not supported. These are emulator-specific and do not contain your actual game data in a usable format.
 Always use your proper `.sav` file created through in-game saving.
 
 ---
