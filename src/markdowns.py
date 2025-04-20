@@ -25,7 +25,7 @@ LINKS = """
 
 [RR Pokemon Locations by me](https://rrlocations.streamlit.app/)
 
-[This Project](https://github.com/izrofid/rr-pokemon-exporter)
+[This Project](https://github.com/izrofid/rr-pokemon-exporter-re)
 
 
 ## Credits
