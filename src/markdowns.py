@@ -11,6 +11,7 @@ al Red tools that use the format)
 - Lets you download everything as a `.txt` file
 - **Grabs IV and EV data**
 - Works with mGBA Flash 128k + RTC save files
+- **Generate PokePaste style images to show off your team!**
 
 No longer shall you have to manually enter stuff into the calc!!
             """
