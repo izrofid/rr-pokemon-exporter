@@ -21,6 +21,8 @@ class BaseBlock:
             self.section_map[section.section_id] = section
 
     def get_section(self, section_id: int) -> SaveSection:
+        if section_id not in self.section_map:
+            raise KeyError(f"Section ID {section_id} not found in dict.")
         return self.section_map[section_id]
 
 

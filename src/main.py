@@ -10,6 +10,8 @@ from pokemon_parser import PartyPokemonParser, BoxPokemonParser
 
 paths = BasePaths()
 
+SAV_PATH = paths.sav.hijak
+
 
 def test_pokemon_to_showdown():
     evs = StatBlock.from_list([0, 0, 0, 252, 0, 252])
@@ -35,7 +37,7 @@ def test_pokemon_to_showdown():
 
 
 def test_party():
-    with open(paths.sav.hijak, "rb") as f:
+    with open(SAV_PATH, "rb") as f:
         raw = f.read()
 
     save = SaveFile(raw)
@@ -52,7 +54,7 @@ def test_party():
 
 
 def test_box():
-    with open(paths.sav.hijak, "rb") as f:
+    with open(SAV_PATH, "rb") as f:
         raw = f.read()
 
     save = SaveFile(raw)
@@ -70,7 +72,7 @@ def test_box():
 
 
 def test_image():
-    with open(paths.sav.hijak, "rb") as f:
+    with open(SAV_PATH, "rb") as f:
         raw = f.read()
 
     save = SaveFile(raw)
@@ -87,4 +89,4 @@ def test_image():
 
 
 if __name__ == "__main__":
-    test_image()
+    test_box()

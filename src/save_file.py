@@ -30,12 +30,7 @@ class SaveFile:
         self.block_b = SaveBlock(self.block_b_raw)
         self.expanded_block = ExpandedBlock(self.cfru_raw)
 
-        # Choose active block based on save index
-        self.active_block = (
-            self.block_a
-            if self.block_a.get_save_index() >= self.block_b.get_save_index()
-            else self.block_b
-        )
+        self.active_block = self._get_active_block()
 
     def _validate_and_trim(self, raw: bytes) -> bytes:
         if len(raw) == SAVE_FILE_SIZE:
@@ -43,3 +38,24 @@ class SaveFile:
         if len(raw) == RTC_SAVE_SIZE:
             return raw[:SAVE_FILE_SIZE]
         raise ValueError(f"Unexpected save file size: {len(raw)} bytes")
+
+    def _get_active_block(self):
+        # Choose active block based on save index
+        block_a_index = self.block_a.get_save_index()
+        block_b_index = self.block_b.get_save_index()
+
+        if block_a_index == 0xFFFFFFFF and block_b_index == 0xFFFFFFFF:
+            raise ValueError("Both blocks are invalid.")
+
+        if block_a_index == 0xFFFFFFFF and block_b_index != 0xFFFFFFFF:
+            active_block = self.block_b
+
+        elif block_b_index == 0xFFFFFFFF and block_a_index != 0xFFFFFFFF:
+            active_block = self.block_a
+
+        elif block_a_index >= block_b_index:
+            active_block = self.block_a
+        else:
+            active_block = self.block_b
+
+        return active_block
