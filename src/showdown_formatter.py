@@ -49,7 +49,7 @@ class ShowdownFormatter:
 
     def format_image(self, party: list[Pokemon]) -> Image.Image:
         sprite_size = (96, 96)
-        spacing_x = 20
+        spacing_x = 45
         spacing_y = 10
         padding_x = 20
         padding_y = 20
@@ -57,7 +57,7 @@ class ShowdownFormatter:
         row_count = (len(party) + 1) // 2
 
         box_width = 400
-        image_width = col_count * box_width + spacing_x * (col_count - 1)
+        image_width = col_count * box_width + spacing_x * col_count + padding_x
 
         row_height = sprite_size[1] + 100
         content_height = (row_count * row_height) + (spacing_y * (row_count - 1))
@@ -132,7 +132,7 @@ class ShowdownFormatter:
                 ) / 1000
                 bg_brightness = (18 * 299 + 18 * 587 + 18 * 114) / 1000
 
-                min_contrast = 148
+                min_contrast = 164
                 if abs(brightness - bg_brightness) < min_contrast:
                     adjustment = 1.5
                     avg_color = np.minimum(255, avg_color * adjustment)
