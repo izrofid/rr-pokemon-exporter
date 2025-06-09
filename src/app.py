@@ -18,7 +18,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-SAVE_TYPES = ["sav", "sa1", "sa2", "sa3", "sa4", "saveram"]
+SAVE_TYPES = ["sav", "sa1", "sa2", "sa3", "sa4", "saveram", "srm", "bin"]
 
 
 def main():
